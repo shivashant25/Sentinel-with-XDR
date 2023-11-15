@@ -5,6 +5,24 @@ Lab 01 - Enable Microsoft Defender for Cloud
 
 You're a Security Operations Analyst working at a company that is implementing cloud workload protection with Microsoft Defender for Cloud.  In this lab, you will enable Microsoft Defender for Cloud.
 
+### Task 2: Create a Log Analytics Workspace
+
+In this task, you will create a Log Analytics workspace for use with Microsoft Defender for Cloud.
+
+1. In the Search bar of the Azure portal, type **Log Analytics**, then select **Log Analytics workspaces**.
+
+1. Select **+Create** from the command bar.
+
+1. Select Resource Group from the drop down.
+
+1. For the Name, enter something unique like **uniquenameDefender**.
+
+1. Select the default Region 
+
+1. Select **Review + Create**.
+
+1. Once the workspace validation has passed, select **Create**. Wait for the new workspace to be provisioned, this may take a few minutes.
+
 ### Task 1: Enable Microsoft Defender for Cloud
 
 In this task, you will enable and configure Microsoft Defender for Cloud.
