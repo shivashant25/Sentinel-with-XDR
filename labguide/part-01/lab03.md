@@ -1,4 +1,7 @@
-## Task 1:  Create a Microsoft Sentinel instance
+## lab03 - Create a Microsoft Sentinel
+
+
+## Task 1:  Create a Microsoft Sentinel
 
 1. In the Azure portal, in the **Search resources, services, and docs** search for **Microsoft Sentinel** then select **Microsoft Sentinel** from the search results.  
 
