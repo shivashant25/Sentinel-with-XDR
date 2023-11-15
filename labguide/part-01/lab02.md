@@ -1,4 +1,4 @@
-#1 Lab02 - Deploy Microsoft Defender for Endpoint
+# Lab02 - Deploy Microsoft Defender for Endpoint
 
 ## Lab scenario
 
