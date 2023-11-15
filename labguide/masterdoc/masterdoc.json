@@ -4,13 +4,13 @@
     "Language": "English",
     "Files": [
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-200T00A-Microsoft-Security-Operations-Analyst/prod/Instructions/Lab-Scenario-Preview/module1ex1.md",
-          "Order": 1
-        }
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/miyagi/main/docs/labs/02-build-your-own-copilot/Lab1.md",
+        "Order": 3
+        },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-200T00A-Microsoft-Security-Operations-Analyst/prod/Instructions/Lab-Scenario-Preview/module1ex1.md",
-          "Order": 1
-        }
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/miyagi/main/docs/labs/02-build-your-own-copilot/Lab1.md",
+        "Order": 3
+       }
      ]  
    }
 ]
