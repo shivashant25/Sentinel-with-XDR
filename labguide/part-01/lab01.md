@@ -10,8 +10,10 @@ You're a Security Operations Analyst working at a company that is implementing c
 In this task, you will create a Log Analytics workspace for use with Microsoft Defender for Cloud.
 
 1. In the Search bar of the Azure portal, type **Log Analytics**, then select **Log Analytics workspaces**.
+   ![](../media/image8.png)
 
 1. Select **+Create** from the command bar.
+    ![](../media/image9.png)
 
 1. Select Resource Group from the drop down.
 
@@ -21,7 +23,11 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 1. Select **Review + Create**.
 
+   ![](../media/image10.png)
+
 1. Once the workspace validation has passed, select **Create**. Wait for the new workspace to be provisioned, this may take a few minutes.
+
+   ![](../media/image11.png)
 
 ### Task 2: Enable Microsoft Defender for Cloud
 
