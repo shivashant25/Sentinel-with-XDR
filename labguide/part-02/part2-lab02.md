@@ -17,7 +17,7 @@ In this task, you will create a detection for the first attack of the previous e
     ```KQL
     search "temp\\startup.bat"
     ```
-   ![Lab overview.](../Media/sc200ex7temp.png)
+   ![Lab overview.](../media/sc200ex7temp.png)
     
     >**Note:** A result with the event might take up to 5 minutes to appear. Wait until it does. If it does not appear, make sure you have rebooted WINServer as instructed in the previous exercise and that you have completed Task #3 of the Learning Path 6 Lab, Exercise 2.
      
@@ -29,7 +29,7 @@ In this task, you will create a detection for the first attack of the previous e
     SecurityEvent 
     | where Activity startswith "4688" 
     ```
-   ![Lab overview.](../Media/sc200ex7log.png)
+   ![Lab overview.](../media/sc200ex7log.png)
 
 1. It is important to help the Security Operations Center Analyst by providing as much context about the alert as you can. This includes projecting Entities for use in the investigation graph. **Run** the following query:
 
@@ -127,7 +127,7 @@ In this task, you will create a detection for the second attack of the previous 
         | project Acct1 = TargetSid, MachId1 = SourceComputerId, UserName1 = TargetUserName) on $left.MachId == $right.MachId1, $left.Acct == $right.Acct1
     ```
 
-   ![Screenshot](../Media/SC200_sysmon_attack3.png)
+   ![Screenshot](../media/SC200_sysmon_attack3.png)
 
 1. Extend the row to show the resulting columns, in the last one, we see the name of the added user under the *UserName1* column we *project* within the KQL query. It is important to help the Security Operations Analyst by providing as much context about the alert as you can. This includes projecting Entities for use in the investigation graph. **Run** the following query:
 
