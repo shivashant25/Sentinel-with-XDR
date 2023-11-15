@@ -20,21 +20,21 @@ In this task, you will investigate an incident.
 
 1. On the left blade of the incident, change the Status to **Active** and then select **Apply**.
 
-   ![Lab overview.](../Media/active.png)
+   ![Lab overview.](../media/active.png)
 
 1. Scroll down to the *Tags* area, select **+ (1)** and type **RegKey (2)** and select **OK (3)**.
 
-    ![Picture 1](../Media/tag.png)
+    ![Picture 1](../media/tag.png)
 
 1. Scroll down and in the *Write a comment...* box type: *I will research this* and select the **>** icon to submit the new comment.
 
-    ![Lab overview.](../Media/comment.png)
+    ![Lab overview.](../media/comment.png)
 
 1. Hide the left blade by selecting the **<<** icon next to the owner.
 
 1. Review the **Incident timeline** window. For the *Startup RegKey* alert, select the ellipsis **(...) (1)** icon and then **Run playbook (2)**. You will see the *PostMessageTeams-OnAlert* playbook. This option helps you to run playbooks manually.
 
-    ![Lab overview.](../Media/runplaybook.png)
+    ![Lab overview.](../media/runplaybook.png)
 
 1. Close the *Alert playbooks* blade by selecting the **x** icon in the top right.
 
@@ -56,15 +56,15 @@ In this task, you will investigate an incident.
 
 1. Select **Assign to me (2)** and then scroll down to select **Apply (3)** to save the changes.
 
-   ![Lab overview.](../Media/assignedtome.png)
+   ![Lab overview.](../media/assignedtome.png)
 
 1. Expand the left blade by selecting the **>>** icon. and then select the **Investigate** button.
 
-      ![Lab overview.](../Media/clickinvestiagtion.png)
+      ![Lab overview.](../media/clickinvestiagtion.png)
 
 1. **Hover** the WINServer entity icon and wait for new *exploration queries* to be shown. It looks like *Related Alerts* has more data on it. Select the name of the exploration query **Related Alerts** to bring them to the investigation graph or select **Events >** to investigate them with a KQL query.
 
-   ![Lab overview.](../Media/investigation.png) 
+   ![Lab overview.](../media/investigation.png) 
 
    >**Hint:** If the icons are too small for your screen, select **(+)** to magnify them.   
 
