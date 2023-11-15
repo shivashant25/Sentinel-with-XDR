@@ -23,19 +23,19 @@ In this task, you will save a workbook template and modify it.
 
 1. You should be back in the **Microsoft Sentinel - Workbooks - Templates** tab. Scroll down again and select the **Save** button for the *Azure Activity* workbook. 
 
-   ![Picture 1](../Media/savedactivity.png)
+   ![Picture 1](../media/savedactivity.png)
 
 1. Leave **East US** as the default value for *Region* and select **Yes**.
 
 1. Select the **View saved workbook** button.
 
-   ![Picture 1](../Media/savedworkbook.png)
+   ![Picture 1](../media/savedworkbook.png)
 
 1. Select **Edit** in the command bar to enable changes in the workbook.
 
 1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid.
 
-   ![Picture 1](../Media/editcaller.png)
+   ![Picture 1](../media/editcaller.png)
 
 1. Select the **Column Settings** button, it is located to the right of the *Run Query* command bar. **Hint:** This button only appears if there is data from the KQL query.
 
@@ -98,7 +98,7 @@ overview of the workbook.
 
 1. Scroll down and at the bottom of the workbook select **+ Add**, then **Add query**.
 
-    ![Picture 1](../Media/addquery.png)
+    ![Picture 1](../media/addquery.png)
 
 1. Type **SecurityEvent** into the query box.
 
@@ -106,7 +106,7 @@ overview of the workbook.
 
 1. Change the *Visualization* to **Grid (2)**.
 
-   ![Picture 1](../Media/grid.png)
+   ![Picture 1](../media/grid.png)
 
 1. Select **Style** from the query's command bar.
 
@@ -114,7 +114,7 @@ overview of the workbook.
 
 1. Set the *Percent width* to **75** and *Maximum width* to **75**.
 
-   ![Picture 1](../Media/75.png)
+   ![Picture 1](../media/75.png)
 
 1. Scroll down and select **Done Editing** on the bottom menu, for the new *Editing query item: query - 3*.
 
