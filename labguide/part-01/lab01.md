@@ -29,7 +29,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. In the Search bar of the Azure portal, type *Defender*, then select **Microsoft Defender for Cloud**.
 
-   ![](media/image1.png)
+   ![](../image1.png)
 
 1. click the left menu and click on **Getting started**
 
