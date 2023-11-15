@@ -82,7 +82,7 @@
     Start PowerShell.exe -file c2.ps1
     ```
     
-      ![Lab overview.](../Media/cmd.png)
+      ![Lab overview.](../media/cmd.png)
    
     >**Note:** You will see DNS resolve errors. This is expected.
 
