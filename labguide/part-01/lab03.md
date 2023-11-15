@@ -19,7 +19,7 @@
     | Region | leave this default |
     |||
 
-    ![Picture 1](../Images/image1-lab7.png)
+    ![Picture 1](../media/image1-lab7.png)
 
 1. click **Review + Create**.   
 
@@ -27,7 +27,7 @@
 
 1. If you don’t see the new workspace listed, select **Refresh**, then select newly created workspace **LogAnalytics-workspace-<inject key="DeploymentID" enableCopy="false"/> (1)** and click on **Add (2)**.
 
-   ![Picture 1](../Images/image2-lab7.png)
+   ![Picture 1](../media/image2-lab(7).png)
 
 1. Once the new workspace is added, the Microsoft Sentinel | News & guides page will display., including that the Microsoft Sentinel free trial is activated. Select **OK**  Note the three steps listed on the Get started page.
 
