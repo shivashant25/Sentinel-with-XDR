@@ -14,8 +14,8 @@
     | Setting | Action |
     | -- | -- |
     | Subscription |  **Select the given subscription (1)**  |
-    | Resource group | select **Create New**, then enter the name **SC900-ResourceGroup** then select **OK**. |
-    | Name | **SC900-LogAnalytics-workspace-<inject key="DeploymentID" enableCopy="false"/>** |
+    | Resource group | select ResourceGroup |
+    | Name | LogAnalytics-workspace-<inject key="DeploymentID" enableCopy="false"/>** |
     | Region | leave this default |
     |||
 
@@ -25,7 +25,7 @@
 
 1. Verify the information you entered then select **Create**.
 
-1. If you don’t see the new workspace listed, select **Refresh**, then select newly created workspace **SC900-LogAnalytics-workspace (1)** and click on **Add (2)**.
+1. If you don’t see the new workspace listed, select **Refresh**, then select newly created workspace **LogAnalytics-workspace-<inject key="DeploymentID" enableCopy="false"/> (1)** and click on **Add (2)**.
 
    ![Picture 1](../Images/image2-lab7.png)
 
