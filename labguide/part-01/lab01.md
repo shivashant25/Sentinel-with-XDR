@@ -41,7 +41,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
    
 1. Select the subscription (or equivalent name in your Language). 
 
-    ![](../media/image4.png)
+    ![](../media/image(4).png)
 
 1. Review the Azure resources that are now protected with the Defender for Cloud plans.
 
