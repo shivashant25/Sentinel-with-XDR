@@ -1,5 +1,5 @@
 
-Lab1 - Enable Microsoft Defender for Cloud
+Lab 01 - Enable Microsoft Defender for Cloud
 
 ## Lab scenario
 
