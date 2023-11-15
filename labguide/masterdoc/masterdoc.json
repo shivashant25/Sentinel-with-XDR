@@ -4,13 +4,37 @@
     "Language": "English",
     "Files": [
         {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/miyagi/main/docs/labs/02-build-your-own-copilot/Lab1.md",
-        "Order": 3
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab01.md",
+        "Order": 1
         },
         {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/miyagi/main/docs/labs/02-build-your-own-copilot/Lab1.md",
-        "Order": 3
-       }
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab02.md",
+        "Order": 2
+       },
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab03.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab04.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab05.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab01.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab02.md",
+        "Order": 1
+      },
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab03.md",
+        "Order": 1
+      },
      ]  
    }
 ]
