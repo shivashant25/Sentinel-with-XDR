@@ -1,3 +1,8 @@
+[
+   {
+    "Name": "Sentinel-with-XDR",
+    "Language": "English",
+    "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab01.md",
         "Order": 1
@@ -6,8 +11,10 @@
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab02.md",
         "Order": 2
       },
-       {
+      {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab03.md",
         "Order": 3
       }
-
+     ]  
+   }
+]
