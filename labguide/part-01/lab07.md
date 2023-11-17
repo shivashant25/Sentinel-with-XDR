@@ -53,6 +53,3 @@ Get-MpComputerStatus
 1. you also need to setup a analytics rule to get alerts as a incidents in the Sentinel
    
    ![Picture 1](../media/Sentinel_course_analyticsrule_4.png)
-
-
-## this way you can ingest the Microsoft Defender logs to Sentinel and use Sentinel as a SIEM & SOAR Solution.
