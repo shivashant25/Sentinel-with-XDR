@@ -1,4 +1,4 @@
-## lab03 - Create a Microsoft Sentinel
+## Lab 03 - Create a Microsoft Sentinel
 
 
 ## Task 1:  Create a Microsoft Sentinel instance
