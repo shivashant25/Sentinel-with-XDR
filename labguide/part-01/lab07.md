@@ -50,6 +50,6 @@ Get-MpComputerStatus
 
    ![Picture 1](../media/Sentinel_course_incidents_3.png)
 
-1. you also need to setup a analytics rule to get alerts as a incidents in the Sentinel
+1. you also need to setup a analytics rule to get alerts as a incident in the Sentinel
    
    ![Picture 1](../media/Sentinel_course_analyticsrule_4.png)
