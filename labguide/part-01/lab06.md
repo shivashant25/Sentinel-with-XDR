@@ -1,6 +1,6 @@
 ## Lab 06 - Ingest Logs from Microsoft Defender for Cloud
 
-### Task 1: Explore defender for ingest data
+### Task 1: Enabling Defender to monitor events
 
 In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
@@ -32,9 +32,15 @@ In this task, you will enable the plan for resources on which diagnostics you wa
 
 1. Select one or both **Servers** or **SQL servers on machines** (Foundational CSPM is the free default), and then select **Save**.
 
-  ![Picture 1](../media/enbale_defender_plan_for_servers_1.png)
+   ![Picture 1](../media/enbale_defender_plan_for_servers_1.png)
 
 
-### Task 3: Disabling or turning of defender monitoring
+### Task 3: Ingesting data to Sentinel from Microsoft Defender 
 
-1. For Defender plans that have monitoring settings, go to the settings of the Defender plan, turn off the extension, and select **Save**
+1. For Microsoft Defender data to ingest to Sentinel you need to use the connectors provided by the Sentinel.
+
+   ![Picture 1](../media/Sentinel_course_6_dataconnectors_1.png)
+
+1. Now you need to click on install the conenctor of Microsoft Defender for Cloud to get the logs into the Sentinel
+
+   ![Picture 1](../media/ Sentinel_Install_Defender_Connector_2.png)
