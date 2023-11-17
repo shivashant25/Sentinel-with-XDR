@@ -8,13 +8,13 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. From Defender for Cloud's menu, select Environment settings and select the subscription with the Linux machines that you want to receive Defender for Endpoint.
 
-![Picture 1](../media/Subscription_Select.png)
+  ![Picture 1](../media/Subscription_Select.png)
 
 1. In the Monitoring coverage column of the Defender for Server plan, select Settings.
 
 1. In the status of the Endpoint protection component, select On to enable the integration with Microsoft Defender for Endpoint.
 
-![Picture 1](../media/Endpoint_Protection_1.png)
+  ![Picture 1](../media/Endpoint_Protection_1.png)
 
 Automatically onboard your Windows and Linux machines to Defender for Endpoint, Detect any previous installations of Defender for Endpoint and reconfigure them to integrate with Defender for Cloud.Onboarding might take up to 1 hour.
 
