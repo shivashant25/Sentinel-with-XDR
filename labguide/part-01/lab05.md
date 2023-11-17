@@ -1,6 +1,5 @@
 ## Lab05 - Create and export an analytical rule
 
-
 ### Task 1: Create and export an analytical rule
 
 In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
