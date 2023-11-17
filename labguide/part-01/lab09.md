@@ -25,7 +25,7 @@ You are a Security Operations Analyst working at a company that is implementing 
 
 ## Architecture Diagram
 
-  ![Picture 1](../Media/SC200-Lab_Diagrams_Mod4_L1_Ex1.png)
+  ![Picture 1](../media/SC200-Lab_Diagrams_Mod4_L1_Ex1.png)
 
 ### Task 1: Create a Log Analytics Workspace
 
@@ -100,7 +100,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected, and then select the **Upgrade** button at the bottom of the page. Wait for the *Trial started* notification to appear, it takes about 2 minutes. **Hint:** You can click the bell button on the top bar to review your Azure portal notifications.
 
-    ![Picture 1](../Media/SC-200-img2.png)
+    ![Picture 1](../media/SC-200-img2.png)
 
 1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
 
@@ -118,7 +118,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. Select **Enable all** (to the right of Select Defender plan) and then select **Save**. Wait for the *"Microsoft Defender plan for workspace uniquenameDefender was saved successfully!"* notification to appear.
 
-    ![Picture 1](../Media/SC-200-img333.png)
+    ![Picture 1](../media/SC-200-img333.png)
 
     >**Note:** If the page is not being displayed, refresh your Edge browser and try again.
 
@@ -156,7 +156,7 @@ In this task, you will manually install the required agent on the Windows Server
 
 1. The Server should appear in the list. You may have to select **Refresh** to see the update and it will take a few minutes.
 
-    ![Picture 1](../Media/SC-200-img26.png)
+    ![Picture 1](../media/SC-200-img26.png)
 
     > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
     > - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
@@ -182,7 +182,7 @@ In this task, you will access a Log Analytics environment where you can practice
 
 1. Next to the first record, select the **>** to expand the information for the row.
 
-    ![Picture 1](../Media/SC-200-img-7.png)
+    ![Picture 1](../media/SC-200-img-7.png)
 
 ### Task 7: Run Basic KQL Statements
 
@@ -192,14 +192,14 @@ In this task, you will build basic KQL statements.
 
 1. Change the **Time range** to **Last hour** in the Query Window.
 
-    ![Picture 1](../Media/SC-200-img8.png)
+    ![Picture 1](../media/SC-200-img8.png)
 
 1. The following statement demonstrates the **search** operator, which searches all columns in the table for the value. In the Query Window enter the following statement and select **Run**: 
 
     ```KQL
     search "err"
     ```
-    ![Picture 1](../Media/SC-200-img9.png)
+    ![Picture 1](../media/SC-200-img9.png)
 
 1. The following statement demonstrates **search** across tables listed within the **in** clause. In the Query Window enter the following statement and select **Run**: 
 
