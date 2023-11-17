@@ -1,4 +1,4 @@
-# Module 7 - Lab 1 - Exercise 10 - Create workbooks
+# Create workbooks
 
 
 ### Task 1: Explore workbook templates
