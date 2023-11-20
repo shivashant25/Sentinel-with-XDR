@@ -60,7 +60,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
    ![](../media/image6.png)
     
-1. Close the settings page by selecting the 'X' on the upper right of the page to go back to the **Environment settings** and select the '>' to the left of your subscription.
+1. To go back to the **Environment settings** and select the '>' to the left of your subscription.
 
 1. Select the Log Analytics workspace you created earlier *uniquenameDefender* to review the available options and pricing.
 
