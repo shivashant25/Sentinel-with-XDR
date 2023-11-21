@@ -2,7 +2,9 @@
 
 ## Task 1:  Create a Microsoft Sentinel instance
 
-1. In the Azure portal, in the **Search resources, services, and docs** search for **Microsoft Sentinel** then select **Microsoft Sentinel** from the search results.  
+1. In the Azure portal, in the **Search Bar** search for **Microsoft Sentinel** then select **Microsoft Sentinel** from the search results. 
+
+   ![Picture 1](../media/image_7.png)
 
 1. From the Microsoft Sentinel page, select **+ Create**.
 
@@ -29,5 +31,9 @@
    ![Picture 1](../media/image2-lab(7).png)
 
 1. Once the new workspace is added, the Microsoft Sentinel | News & guides page will display., including that the Microsoft Sentinel free trial is activated. Select **OK**  Note the three steps listed on the Get started page.
+
+   ![Picture 1](../media/image_8.png)
+   
+   ![Picture 1](../media/image_9.png)
 
 1. Keep this page open, as you will use it in the next task.

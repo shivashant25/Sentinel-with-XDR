@@ -6,6 +6,8 @@ In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
 
+   ![Picture 1](../media/image_7.png)
+
 1. Select your Microsoft Sentinel Workspace.
 
 1. Select **Analytics** under the *Configuration* area from the left blade.
@@ -14,7 +16,7 @@ In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
 
 1. Select the **Export** from the toolbar. **Hint:** You might need to select the ellipsis icon **(...)** to see it.
 
-   ![Picture 1](../Media/export.png)
+   ![Picture 1](../media/export.png)
 
 1. The rule is exported to a text file named *Azure_Sentinel_analytic_rule.json*.
 
@@ -44,7 +46,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. At the bottom of the page in the area *Initialize main branch with a README or gitignore*, select **Initialize**.
 
-     ![Picture 1](../Media/initialize.png)
+     ![Picture 1](../media/initialize.png)
 
 1. The page should show the Files for the Repo.  the only file is README.me.
 
@@ -52,7 +54,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. Select **Upload Files**.
 
-    ![Picture 1](../Media/uploadfilesinrepo.png)
+    ![Picture 1](../media/uploadfilesinrepo.png)
 
 1. Select **Browse** and select the file **Azure_Sentinel_analytic_rule.json** from your *Downloads* directory.
 
@@ -66,7 +68,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. Toggle **On** *Third-party application access via OAuth* under the *Application connection policies* area.
 
-   ![Picture 1](../Media/thirdpartyauth.png)
+   ![Picture 1](../media/thirdpartyauth.png)
 
 ### Task 3: Connect Sentinel to Azure DevOps.
 
@@ -98,6 +100,6 @@ In this task, you will create an Azure DevOps repository.
 
 1. Go to the *Repositories (Preview)* page, select **Refresh**. Wait until the last deployment status* is *Failed*.  
 
-    ![Picture 1](../Media/failed.png)
+    ![Picture 1](../media/failed.png)
 
     >**Note:** The *Failed* status is due to limitations in the hosted lab environment. You would normally see *Succeeded*. Then you can see in the *Analytics* the imported rule *Rule from Azure DevOps*.
