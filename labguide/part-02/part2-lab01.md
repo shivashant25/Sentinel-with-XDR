@@ -1,4 +1,20 @@
-# Conduct attacks
+## Part:2 Lab - 01 Conduct attacks
+
+## Lab scenario
+
+You are going to simulate the attacks that you will later use to detect and investigate in Microsoft Sentinel.
+
+## Lab objectives
+ In this lab, you will perform the following:
+- Task 1: Persistence Attack with Registry Key Add 
+- Task 2: Command and Control Attack with DNS
+- Task 3: Privilege Elevation Attack with User Add
+
+## Estimated timing: 30 minutes
+
+## Architecture Diagram
+
+  ![Lab overview.](../media/labscenario.png)
 
 ### Task 1: Persistence Attack with Registry Key Add 
 

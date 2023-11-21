@@ -1,4 +1,4 @@
-## Lab 05 - Create and export an analytical rule
+## Part:1 Lab 05 - Create and export an analytical rule
 
 ### Task 1: Create and export an analytical rule
 

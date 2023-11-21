@@ -1,4 +1,4 @@
-## Lab 08- Ingest Logs from Azure AD
+## Part:1 Lab 08- Ingest Logs from Azure AD
 
 ### Task 1: Ingesting logs from Azure AD to Sentinel 
 

@@ -1,4 +1,4 @@
-## Lab 01 - Enable Microsoft Defender for Cloud
+## Part:1 Lab 01 - Enable Microsoft Defender for Cloud
 
 ## Lab scenario
  You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.

@@ -1,4 +1,4 @@
-## Lab 06 - Ingest Logs from Microsoft Defender for Cloud
+## Part:1 Lab 06 - Ingest Logs from Microsoft Defender for Cloud
 
 ### Task 1: Enabling Defender to monitor events
 
