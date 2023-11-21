@@ -1,6 +1,21 @@
 ## Lab 01 - Enable Microsoft Defender for Cloud
 
 ## Lab scenario
+ You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.
+
+## Lab objectives
+In this lab, you will perform:
+- Task 1: Create a Group 
+- Task 2: Apply Microsoft Defender for Office 365 preset security policies
+- Task 3: Preparing the Microsoft 365 Defender workspace
+    
+## Estimated timing: 120 minutes
+
+## Architecture Diagram
+
+  ![Picture 1](../media/SC200-Lab_M1_L1_Ex1.png)
+
+## Lab scenario
 
 You're a Security Operations Analyst working at a company that is implementing cloud workload protection with Microsoft Defender for Cloud.  In this lab, you will enable Microsoft Defender for Cloud.
 

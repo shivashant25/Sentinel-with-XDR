@@ -1,4 +1,4 @@
-# Lab 09- Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+## Lab 09- Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 >**Important:** This lab involves entering many KQL scripts into Microsoft Sentinel. The scripts were provided in a file at the beginning of this lab. An alternate location to download them is:  https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst/tree/master/Allfiles
 
