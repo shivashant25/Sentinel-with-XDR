@@ -1,4 +1,4 @@
-## Part:2 Lab - 02 Create Detections
+## Part:2 Lab 02 Create Detections
 
 ## Lab scenario
 

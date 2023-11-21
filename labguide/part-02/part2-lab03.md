@@ -1,4 +1,4 @@
-## Part:2 Lab - 03 Investigate Incidents
+## Part:2 Lab 03 Investigate Incidents
 
 ## Lab scenario
 
