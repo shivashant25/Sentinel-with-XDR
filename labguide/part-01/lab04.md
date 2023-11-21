@@ -5,15 +5,17 @@
 
 In this task, you will explore the Microsoft Sentinel workbook templates.
 
-1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
+1. In the Search bar of the Azure portal, type *Microsoft Sentinel*, then select **Microsoft Sentinel**.
 
    ![Picture 1](../media/image_7.png)
 
 1. Select your Microsoft Sentinel Workspace.
 
-1. Select **Workbooks** under the *Threat Management* left blade. The *Templates* tab is selected by default.
+1. Select **Workbooks** under the *Threat Management* left blade.
 
-1. Search for and select the **Azure Activity** template workbook. In the right pane, scroll down and select the **View template** button.
+   ![Picture 1](../media/image_10.png)
+
+1. Select the *Templates* tab, search and select the **Azure Activity** template workbook. In the right pane, scroll down and select the **View template** button.
 
 1. Review the contents of the workbook. It shows insights into your Azure subscription operations by collecting and analyzing the data from the Activity Log.
 
