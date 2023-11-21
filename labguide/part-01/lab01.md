@@ -16,7 +16,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
     
    ![](../media/image9.png)
 
-1. Select Resource Group from the drop down.
+1. Select Resource Group from the drop down(sentinel-rg).
 
 1. For the Name, enter something unique like **uniquenameDefender**.
 
