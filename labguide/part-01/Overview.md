@@ -16,7 +16,11 @@ Integration: Microsoft Sentinel seamlessly integrates with other Microsoft secur
 ### Labs Scenario
 Contoso is a global organization with a complex IT infrastructure that includes a combination of on-premises data centers and cloud-based resources. They are looking to enhance their security posture by deploying Azure Sentinel, Microsoft's cloud-native security information and event management (SIEM) and security orchestration automation and response (SOAR) solution. Additionally, Contoso aims to onboard its cloud resources and servers to Azure Sentinel to gain better visibility and proactive threat detection and response capabilities.
 
-By implementing a robust log analytics and threat-hunting program, Contoso aims to proactively identify and mitigate threats, reduce the risk of security breaches, and maintain a strong security posture in an ever-evolving threat landscape. This approach will enable Contoso to stay ahead of potential threats and protect its digital assets effectively.
+By implementing a robust log analytics and threat detection program, Contoso aims to proactively identify and mitigate threats, reduce the risk of security breaches, and maintain a strong security posture in an ever-evolving threat landscape. This approach will enable Contoso to stay ahead of potential threats and protect its digital assets effectively.
+
+In this lab, You'll have access to a predeployed environment with an active Azure subscription, a tenant, and a Microsoft E5 license assigned to the user. 
+
+Using this lab, You'll be able explore complete features and offerings offered by Microsoft Sentinel including XDR protection.
 
 ### Azure services and related products
 
