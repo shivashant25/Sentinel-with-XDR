@@ -4,7 +4,7 @@
  You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.
 
 ## Lab objectives
-In this lab, you will perform:
+In this lab, you will complete the following tasks:
 - Task 1: Create a Group 
 - Task 2: Apply Microsoft Defender for Office 365 preset security policies
 - Task 3: Preparing the Microsoft 365 Defender workspace
