@@ -11,9 +11,9 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 
 ### Task 1: Preparing the Microsoft 365 Defender workspace
 
-1. On the **Microsoft 365 Defender** portal(https://security.microsoft.com/), from the navigation menu, select **Settings** from the left.
+1. On the **Microsoft Defender** portal(https://security.microsoft.com/), from the navigation menu, select **Settings** from the left.
 
-1. On the **Settings** page select **Microsoft 365 Defender**. You are going to see an image of a coffee mug and a message that reads: *Hang on! We're preparing new spaces for your data and connecting them.*. It will take several minutes to finish, so leave the page open but make sure it finishes since it is required for the next Lab. 
+1. On the **Settings** page select **Microsoft Defender**. You are going to see an image of a coffee mug and a message that reads: *Hang on! We're preparing new spaces for your data and connecting them.*. It will take several minutes to finish, so leave the page open but make sure it finishes since it is required for the next Lab. 
 
     >**Note:** If you get the error message "We didn't plan it will fail, but something went wrong." retry the step later or do it before the next Lab.
 
@@ -23,15 +23,15 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 
 In this task, you will perform the initialization of the Microsoft Defender for the Endpoint portal.
 
-1. If you are not already at the Microsoft 365 Defender portal, start the Microsoft Edge browser.
+1. If you are not already at the Microsoft  Defender portal, start the Microsoft Edge browser.
 
-1. In the Edge browser, go to the Microsoft 365 Defender portal at (https://security.microsoft.com).
+1. In the Edge browser, go to the Microsoft Defender portal at (https://security.microsoft.com).
 
 1. In the **Sign in** dialog box, copy and paste * Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
 
 1. In the **Enter password** dialog box, copy and paste * Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
 
-1. On the **Microsoft 365 Defender** portal, from the navigation menu, select **Settings** from the left.
+1. On the **Microsoft Defender** portal, from the navigation menu, select **Settings** from the left.
 
 1. On the **Settings** page select **Device discovery**. 
 
@@ -80,7 +80,7 @@ In this task, you will onboard a device to Microsoft Defender for Endpoint using
 
 1. Paste the script by right-clicking in the **Administrator: Command Prompt** windows and press **Enter** to run it. **Note:** The window closes automatically after running the script.
 
-1. In the Microsoft 365 Defender portal, in the left-hand menu, under the **Assets** area, select **Devices**. If the device is not shown, complete the next task and come back to check it back later. It can take up to 60 minutes for the first device to be displayed in the portal.
+1. In the Microsoft Defender portal, in the left-hand menu, under the **Assets** area, select **Devices**. If the device is not shown, complete the next task and come back to check it back later. It can take up to 60 minutes for the first device to be displayed in the portal.
 
      ![Picture 1](../media/SC-200-img22.png)
 
@@ -118,7 +118,7 @@ In this task, you will configure roles for use with device groups.
 
 1. Select **Create** and click on **Yes**. 
 
-1. In the Microsoft 365 Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
+1. In the Microsoft Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
 
 1. Select **Roles** under the permissions area.
 
@@ -133,15 +133,15 @@ In this task, you will configure roles for use with device groups.
     |Role name|**Tier 1 Support**|
     |Permissions|Live Response capabilities - Advanced|
 
-1. Select the **Assigned user groups** tab on the top. Select **sg-IT** and then select **Add selected groups**. Make sure it appears under *Azure AD user groups with this role*.
+1. Select the **Assigned user groups** by click on next. Select **sg-IT** and then select **Add selected groups**. Make sure it appears under *Azure AD user groups with this role*.
 
-1. Select **Submit**. If you receive an error while saving the role, refresh the page and try again.
+1. Select **Submit** and Done. If you receive an error while saving the role, refresh the page and try again.
 
 ### Task 5: Configure Device Groups
 
 In this task, you will configure device groups that allow for access control and automation configuration.
 
-1. In the Microsoft 365 Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
+1. In the Microsoft Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
 
 1. Select **Device groups** under the permissions area.
 
