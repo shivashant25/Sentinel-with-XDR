@@ -1,12 +1,29 @@
-## Part:1 Lab 05 - Create and export an analytical rule
+
+# Part:1 Lab 04 - Use Repositories in Microsoft Sentinel
+
+## Lab scenario
+
+You are a Security Operations Analyst working at a company that implemented Microsoft Sentinel. You already created Scheduled and Microsoft Security Analytics rules.  You need to centralize analytical rules in an Azure DevOps repository.  Then connect Sentinel to the Azure DevOps repository and import the content. 
+
+>**Note:** An **[interactive lab simulation](https://mslabs.cloudguides.com/guides/SC-200%20Lab%20Simulation%20-%20Use%20repositories%20in%20Microsoft%20Sentinel)** is available that allows you to click through this lab at your own pace. You may find slight differences between the interactive simulation and the hosted lab, but the core concepts and ideas being demonstrated are the same.
+
+## Lab objectives
+ In this lab, you will Understand following:
+ - Task 1: Create and export an analytical rule
+ - Task 2: Create our Azure DevOps environment
+ - Task 3: Connect Sentinel to Azure DevOps.
+
+## Estimated timing: 30 minutes
+
+## Architecture Diagram
+
+   ![](../Media/sc200mod7ex11.png)
 
 ### Task 1: Create and export an analytical rule
 
 In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
-
-   ![Picture 1](../media/image_7.png)
 
 1. Select your Microsoft Sentinel Workspace.
 
@@ -16,7 +33,7 @@ In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
 
 1. Select the **Export** from the toolbar. **Hint:** You might need to select the ellipsis icon **(...)** to see it.
 
-   ![Picture 1](../media/export.png)
+   ![Picture 1](../Media/export.png)
 
 1. The rule is exported to a text file named *Azure_Sentinel_analytic_rule.json*.
 
@@ -46,7 +63,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. At the bottom of the page in the area *Initialize main branch with a README or gitignore*, select **Initialize**.
 
-     ![Picture 1](../media/initialize.png)
+     ![Picture 1](../Media/initialize.png)
 
 1. The page should show the Files for the Repo.  the only file is README.me.
 
@@ -54,7 +71,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. Select **Upload Files**.
 
-    ![Picture 1](../media/uploadfilesinrepo.png)
+    ![Picture 1](../Media/uploadfilesinrepo.png)
 
 1. Select **Browse** and select the file **Azure_Sentinel_analytic_rule.json** from your *Downloads* directory.
 
@@ -68,7 +85,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. Toggle **On** *Third-party application access via OAuth* under the *Application connection policies* area.
 
-   ![Picture 1](../media/thirdpartyauth.png)
+   ![Picture 1](../Media/thirdpartyauth.png)
 
 ### Task 3: Connect Sentinel to Azure DevOps.
 
@@ -100,6 +117,6 @@ In this task, you will create an Azure DevOps repository.
 
 1. Go to the *Repositories (Preview)* page, select **Refresh**. Wait until the last deployment status* is *Failed*.  
 
-    ![Picture 1](../media/failed.png)
+    ![Picture 1](../Media/failed.png)
 
     >**Note:** The *Failed* status is due to limitations in the hosted lab environment. You would normally see *Succeeded*. Then you can see in the *Analytics* the imported rule *Rule from Azure DevOps*.
