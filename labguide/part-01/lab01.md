@@ -15,9 +15,6 @@ In this lab, you will complete the following tasks:
 
   ![Picture 1](../media/SC200-Lab_M1_L1_Ex1.png)
 
-## Lab scenario
-
-You're a Security Operations Analyst working at a company that is implementing cloud workload protection with Microsoft Defender for Cloud.  In this lab, you will enable Microsoft Defender for Cloud.
 
 ### Task 1: Create a Log Analytics Workspace
 
