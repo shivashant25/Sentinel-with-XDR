@@ -1,5 +1,17 @@
 ## Part:1 Lab 07 - Ingest Logs from Microsoft Defender for Endpoint
 
+## Lab scenario
+Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and analyze security event logs from Microsoft Defender for Endpoint to enhance threat detection and response within the organization.
+
+## Lab objectives
+
+In this lab, you will complete the following tasks:
+- Task 1: Explore defender for ingest data
+- Task 2: Verify installation of Defender for Endpoint on a machine
+- Task 3: Ingesting data to Sentinel from Microsoft Defender
+    
+## Estimated timing: 120 minutes
+
 ## Architecture Diagram
 
    ![](../media/lab07.png)
@@ -25,7 +37,7 @@ Automatically onboard your Windows machines to Defender for Endpoint, Detect any
 1. Select Continue and Save to save your settings.
 
 
-### Task 2: verify installation of Defender for Endpoint on a machine
+### Task 2: Verify installation of Defender for Endpoint on a machine
 
 In your vm search for the **Services**, will find Microsoft Monitoring Agent is Running.
 
@@ -46,3 +58,9 @@ In your vm search for the **Services**, will find Microsoft Monitoring Agent is 
 1. you also need to setup a analytics rule to get alerts as a incident in the Sentinel
    
    ![Picture 1](../media/Sentinel_course_analyticsrule_4.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Explore defender for ingest data
+- Verify installation of Defender for Endpoint on a machine
+- Ingesting data to Sentinel from Microsoft Defender
