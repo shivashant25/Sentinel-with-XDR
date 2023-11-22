@@ -89,4 +89,8 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. Close the Defender plans page by selecting the 'X' on the upper right of the page to go back to the **Environment settings**
 
-
+## Review
+In this lab, you will complete the following tasks:
+- Create a Group 
+- Apply Microsoft Defender for Office 365 preset security policies
+- Preparing the Microsoft 365 Defender workspace
