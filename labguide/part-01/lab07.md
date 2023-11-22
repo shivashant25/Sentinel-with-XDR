@@ -1,5 +1,9 @@
 ## Part:1 Lab 07 - Ingest Logs from Microsoft Defender for Endpoint
 
+## Architecture Diagram
+
+   ![](../media/lab07.png)
+
 ### Task 1: Explore defender for ingest data
 
 In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
