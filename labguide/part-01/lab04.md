@@ -156,3 +156,9 @@ overview of the workbook.
 1. Select the workbook you just created, **My workbook**.
 
 1. On the right pane, select **View saved workbook** to review your workbook.
+
+## Review
+ In this lab, you will Understand following:
+ - Explore workbook templates
+ - Save and modify a workbook template
+ - Create a Workbook

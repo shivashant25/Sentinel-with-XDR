@@ -182,3 +182,11 @@ In this task, you will configure device groups that allow for access control and
 1. Device group configuration has changed. Select **Apply changes** to check matches and recalculate groupings.
 
 1. You are going to have two device groups now; the **Regular** you just created and the **Ungrouped devices (default)** with the same remediation level.
+
+## Review
+In this lab, you will perform the following:
+- Preparing the Microsoft 365 Defender workspace
+- Initialize Microsoft Defender for Endpoint
+- Onboard a Device
+- Configure Roles
+- Configure Device Groups

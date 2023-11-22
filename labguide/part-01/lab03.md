@@ -55,3 +55,12 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../media/image_9.png)
 
 1. Keep this page open, as you will use it in the next task.
+
+## Review
+
+In this lab, you will complete the following tasks:
+
++ Create a Microsoft Sentinel instance
++ Built-in Microsoft Sentinel roles
++ Data connector to your instance of Microsoft Sentinel
++ Explore on capabilities available in Sentinel
