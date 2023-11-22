@@ -1,5 +1,12 @@
 ## Part:1 Lab 06 - Ingest Logs from Microsoft Defender for Cloud
 
+## Lab scenario
+To set up Log Analytics workspace in Azure and configure Microsoft Defender for Cloud to ingest security logs into the workspace for monitoring and analysis.
+
+## Estimated timing: 45 minutes
+
+## Architecture Diagram
+
 ## Lab objectives
 In this lab, you will complete the following tasks:
 - Task 1: Enabling Defender to monitor events
