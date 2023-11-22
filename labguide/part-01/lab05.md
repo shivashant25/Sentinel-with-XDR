@@ -120,3 +120,9 @@ In this task, you will create an Azure DevOps repository.
     ![Picture 1](../media/failed.png)
 
     >**Note:** The *Failed* status is due to limitations in the hosted lab environment. You would normally see *Succeeded*. Then you can see in the *Analytics* the imported rule *Rule from Azure DevOps*.
+
+## Review
+ In this lab, you will Understand following:
+ - Create and export an analytical rule
+ - Create our Azure DevOps environment
+ - Connect Sentinel to Azure DevOps.
