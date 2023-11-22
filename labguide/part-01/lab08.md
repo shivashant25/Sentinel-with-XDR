@@ -1,5 +1,9 @@
 ## Part:1 Lab 08- Ingest Logs from Azure AD
 
+## Architecture Diagram
+
+   ![](../media/lab08.png)
+
 ### Task 1: Ingesting logs from Azure AD to Sentinel 
 
 In this task, you will explore the Microsoft Sentinel .

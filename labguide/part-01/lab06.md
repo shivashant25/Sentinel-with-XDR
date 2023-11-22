@@ -1,5 +1,9 @@
 ## Part:1 Lab 06 - Ingest Logs from Microsoft Defender for Cloud
 
+## Architecture Diagram
+
+   ![](../media/lab06.png)
+
 ### Task 1: Enabling Defender to monitor events
 
 In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
@@ -34,7 +38,7 @@ In this task, you will enable the plan for resources on which diagnostics you wa
    ![Picture 1](../media/enbale_defender_plan_for_servers_1.png)
 
 
-### Task 3: Ingesting data to Sentinel from Microsoft Defender 
+### Task 3: Ingesting data to Sentinel from Microsoft Defender
 
 1. For Microsoft Defender data to ingest to Sentinel you need to use the connectors provided by the Sentinel.
 
