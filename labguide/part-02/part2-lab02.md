@@ -27,7 +27,7 @@ In this task, you will create a detection for the first attack of the previous e
 
     ```KQL
     SecurityEvent 
-    | where Activity startswith "4688" 
+    | where Activity startswith "4624" 
     ```
    ![Lab overview.](../media/sc200ex7log.png)
 
@@ -35,7 +35,7 @@ In this task, you will create a detection for the first attack of the previous e
 
     ```KQL
     SecurityEvent 
-    | where Activity startswith "4688" 
+    | where Activity startswith "4624" 
     | extend timestamp = TimeGenerated, HostCustomEntity = Computer, AccountCustomEntity = SubjectUserName
     ```
 
@@ -195,5 +195,5 @@ In this lab, you have completed the following:
 - Persistence Attack Detection
 - Privilege Elevation Attack Detection
 
-## Proceed to Exercise 8
+
 
