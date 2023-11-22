@@ -9,7 +9,7 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 >**Important:**  The lab Virtual Machines are used through different modules. SAVE your virtual machines. If you exit the lab without saving, you will be required to re-run some configurations again.
 
 
-### Task 1: Preparing the Microsoft 365 Defender workspace
+### Task 1: Preparing the Microsoft Defender workspace
 
 1. On the **Microsoft Defender** portal(https://security.microsoft.com/), from the navigation menu, select **Settings** from the left.
 
@@ -17,7 +17,7 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 
     >**Note:** If you get the error message "We didn't plan it will fail, but something went wrong." retry the step later or do it before the next Lab.
 
-1. When the new space completes successfully, you are going to see the Microsoft 365 Defender settings for Account, Email notifications, Preview features and Streaming API.
+1. When the new space completes successfully, you are going to see the Microsoft Defender settings for Account, Email notifications, Preview features and Streaming API.
 
 ### Task 2: Initialize Microsoft Defender for Endpoint
 
@@ -37,7 +37,7 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
     ![Picture 1](../media/SC200-img1.png)
 
-    >**Note:** If you do not see the **Device discovery** option under **Settings**, log out by selecting the top-right circle with your account initials and select **Sign out**. Other options that you might want to try are to refresh the page with Ctrl+F5 wait for 10-15 minutes or open the page InPrivate. Login again with the **Tenant Email** credentials.
+    >**Note:** If you do not see the **Device discovery** option under **Settings**, log out by selecting the top-right circle with your account initials and select **Sign out**. Other options that you might want to try are to refresh the page, wait for 20-25 minutes or open the page InPrivate. Login again with the **Tenant Email** credentials.
 
 1. In the Discovery setup make sure **Standard discovery (recommended)** is selected. 
     >**Hint:** If you do not see the option, refresh the page.
@@ -46,7 +46,7 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
 In this task, you will onboard a device to Microsoft Defender for Endpoint using an onboarding script.
 
-1. If you are not already at the Microsoft 365 Defender portal in your browser, start the Microsoft Edge browser go to (https://security.microsoft.com) and log in with the **Tenant Email** credentials.
+1. If you are not already at the Microsoft  Defender portal in your browser, start the Microsoft Edge browser go to (https://security.microsoft.com) and log in with the **Tenant Email** credentials.
 
 1. Select **Settings** from the left menu bar, then from the Settings page select **Endpoints**.
 

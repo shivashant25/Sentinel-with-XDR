@@ -94,6 +94,8 @@ overview of the workbook.
 
 1. Set the *Percent width* to **25** and *Maximum width* to **25**.
 
+    ![Picture 1](../media/image_22.png)
+
 1. Now select **Advanced Settings** tab from the query's command bar.
 
 1. Select **Show refresh icon when not editing** box. 
