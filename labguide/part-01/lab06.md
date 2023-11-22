@@ -1,5 +1,11 @@
 ## Part:1 Lab 06 - Ingest Logs from Microsoft Defender for Cloud
 
+## Lab objectives
+In this lab, you will complete the following tasks:
+- Task 1: Enabling Defender to monitor events
+- Task 2: Enabling Plan of Defender for resources
+- Task 3: Ingesting data to Sentinel from Microsoft Defender
+
 ### Task 1: Enabling Defender to monitor events
 
 In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
@@ -43,3 +49,10 @@ In this task, you will enable the plan for resources on which diagnostics you wa
 1. Now you need to click on install both the conenctor of Microsoft Defender for Cloud and Microsoft 365 Defender to get the logs into the Sentinel
 
    ![Picture 1](../media/Sentinel_Install_Defender_Connector_2.png)
+
+
+## Review
+In this lab, you will complete the following tasks:
+- Enabling Defender to monitor events
+- Enabling Plan of Defender for resources
+- Ingesting data to Sentinel from Microsoft Defender
