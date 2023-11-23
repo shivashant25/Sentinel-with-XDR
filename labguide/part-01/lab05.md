@@ -17,7 +17,7 @@ You are a Security Operations Analyst working at a company that implemented Micr
 
 ## Architecture Diagram
 
-   ![](../media/sc200mod7ex11.png)
+   ![](../media/sc200mod7ex11.1.png)
 
 ### Task 1: Create and export an analytical rule
 
