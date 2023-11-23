@@ -54,7 +54,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
 
-1. Next, In Add Microsoft Sentinel to a workspace page.
+1. Create, In Add Microsoft Sentinel to a workspace page.
 
 1. Select your existing workspace that was created in the previous lab, then select **Add**. This could take a few minutes.
 
@@ -78,7 +78,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 1. Under configuration choose **Install agent on Azure Windows Virtual Machine** and select **Download & install agent for Azure Windows Virtual machines** 
 
-1. Select the **WIN 1** virtual machine and click on connect
+1. Select the **svm-xxx** virtual machine and click on connect
 
 1. Then come back to Configuration and scroll down a bit you can find **Select which events to stream** Click on **All Events**
 
@@ -96,7 +96,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
 
-1. Select the **"MOC HOL XXXX"** subscription (or equivalent name in your Language). 
+1. Select the subscription (or equivalent name in your Language). 
 
 1. Review the Azure resources that are now protected with the Defender for Cloud plans.
 
@@ -120,7 +120,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 In this task, you will manually install the required agent on the Windows Server.
 
-1. On the WIN1 Virtual machine, Go to **Microsoft Defender for Cloud** and select the **Getting Started** page.
+1.  Go to **Microsoft Defender for Cloud** and select the **Getting Started** page.
 
 1. Select the **Get Started** tab.
 
@@ -164,13 +164,15 @@ In this task, you will create microsoft sentinel training lab solution.
 
 1. Click on Review + create and click on create.
 
+   >**Note**: It will take 3-5 minutes.
+
 ### Task 7: Access the KQL testing area.
 
 In this task, you will access a Log Analytics environment where you can practice writing KQL statements.
 
 1. Go-to Microsoft sentinel and select your log analytics workspace.
 
-1. On the left menu click on **logs** close if any tutorial window pops up
+1. On the left menu click on **logs** close if any tutorial window pops up click on 'X'.
 
 1. Explore the available tables listed in the tab on the left side of the screen.
 
@@ -199,6 +201,9 @@ In this task, you will build basic KQL statements.
     ```KQL
     search "err"
     ```
+
+    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**.
+
     ![Picture 1](../media/SC-200-img9.png)
 
 1. The following statement demonstrates **search** across tables listed within the **in** clause. In the Query Window enter the following statement and select **Run**: 
@@ -206,6 +211,7 @@ In this task, you will build basic KQL statements.
     ```KQL
     search in (SecurityEvent,SecurityAlert,A*) "err"
     ```
+    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**
 
 1. Change back the **Time range** to **Last 24 hours** in the Query Window.
 
