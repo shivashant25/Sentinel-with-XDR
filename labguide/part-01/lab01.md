@@ -52,7 +52,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. Click the left menu and click on **Getting started**. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected and then select the **Upgrade** button at the bottom of the page. Wait for the *Trial started* notification to appear, it takes about 2 minutes. **Hint:** You can click the bell button on the top bar to review your Azure portal notifications.
 
-    ![](../media/image_6.png)
+    ![](../media/image_60.png)
 
 1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
 
