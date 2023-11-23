@@ -15,7 +15,7 @@ Analytics rules search for specific events or sets of events across your environ
 
 ## Architecture Diagram
 
-  ![Lab overview.](../media/sc200ex7.png)
+  ![Lab overview.](../media/sc200ex7.1.png)
 
 ### Task 1: Persistence Attack Detection
 
