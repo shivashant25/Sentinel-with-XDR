@@ -14,11 +14,12 @@ You are a Security Operations Analyst working at a company that is implementing 
 - Task 4: Enable Microsoft Defender for Cloud
 - Run Basic KQL Statements
 - Task 5: Protect an On-Premises Server.
-- Task 6: Access the KQL testing area.
-- Task 7: Run Basic KQL Statements
-- Task 8: Analyze Results in KQL with the Summarize Operator
-- Task 9: Create visualizations in KQL with the Render Operator
-- Task 10: Build multi-table statements in KQL
+- Task 6: Create Microsoft Sentinel Training Lab Solution.
+- Task 7: Access the KQL testing area.
+- Task 8: Run Basic KQL Statements
+- Task 9: Analyze Results in KQL with the Summarize Operator
+- Task 10: Create visualizations in KQL with the Render Operator
+- Task 11: Build multi-table statements in KQL
 
 ## Estimated timing: 90 minutes
 
