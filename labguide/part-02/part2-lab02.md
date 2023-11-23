@@ -23,9 +23,7 @@ Analytics rules search for specific events or sets of events across your environ
 
 In this task, you'll create a Microsoft Teams team for use in the lab.
 
-1. Log in to virtual machine as Admin with the password: **Pa55w.rd**.  
-
-1. In the Microsoft Edge browser, open a new tab and navigate to the Microsoft Teams portal at (https://teams.microsoft.com).
+1. In the lab virtual machine, select **microsoft Teams** icon from the desktop and select to open.
 
 1. Close any Teams pop-ups that may appear.
 
