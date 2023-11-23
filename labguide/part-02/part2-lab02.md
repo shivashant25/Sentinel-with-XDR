@@ -122,8 +122,6 @@ In this task, you'll update the new playbook you created with the proper connect
 
 ### Task 4: Persistence Attack Detection
 
->**Important:** The next steps are done on a different machine than the one you were previously working on. Look for the Virtual Machine name references.
-
 In this task, you will create a detection for the first attack of the previous exercise.
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
