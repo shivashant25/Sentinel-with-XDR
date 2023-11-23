@@ -20,7 +20,7 @@ In this lab, you will perform the following:
 
 ## Architecture Diagram
 
-  ![Picture 1](../media/SC200-Lab_Diagrams_Mod2_L1_Ex1.png)
+  ![Picture 1](../media/SC200-Lab_Diagrams_Mod2_L1_Ex1.1.png)
 
 ### Task 1: Preparing the Microsoft 365 Defender workspace
 
