@@ -5,9 +5,8 @@
 
 ## Lab objectives
 In this lab, you will complete the following tasks:
-- Task 1: Create a Group 
-- Task 2: Apply Microsoft Defender for Office 365 preset security policies
-- Task 3: Preparing the Microsoft 365 Defender workspace
+- Task 1: Create a Log Analytics Workspace
+- Task 2: Enable Microsoft Defender for Cloud
     
 ## Estimated timing: 120 minutes
 
@@ -87,6 +86,5 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 ## Review
 In this lab, you will complete the following tasks:
-- Create a Group 
-- Apply Microsoft Defender for Office 365 preset security policies
-- Preparing the Microsoft 365 Defender workspace
+- Create a Log Analytics Workspace
+- Enable Microsoft Defender for Cloud
