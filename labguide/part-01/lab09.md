@@ -24,7 +24,7 @@ You are a Security Operations Analyst working at a company that is implementing 
 
 ## Architecture Diagram
 
-  ![Picture 1](../media/SC200-Lab_Diagrams_Mod4_L1_Ex1.png)
+  ![Picture 1](../media/SC200-Lab_Diagrams_Mod4_L1_Ex1.1.png)
 
 ### Task 1: Create a Log Analytics Workspace
 
