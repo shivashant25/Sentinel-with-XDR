@@ -13,7 +13,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-  ![Picture 1](../media/SC200-Lab_M1_L1_Ex1.1.png)
+  ![Picture 1](../media/SC200-Lab_M1_L1_Ex1.2.png)
 
 ### Task 1: Create a Log Analytics Workspace
 
