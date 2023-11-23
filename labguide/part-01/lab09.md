@@ -148,7 +148,7 @@ In this task, you will manually install the required agent on the Windows Server
 
 1. The Server should appear in the list. You may have to select **Refresh** to see the update and it will take a few minutes.
 
-    ![Picture 1](../media/SC-200-img26.png)
+    ![Picture 1](../media/image_29.png)
 
 ### Task 6: Create Microsoft Sentinel Training Lab Solution
 
