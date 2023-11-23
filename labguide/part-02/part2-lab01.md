@@ -14,7 +14,7 @@ You are going to simulate the attacks that you will later use to detect and inve
 
 ## Architecture Diagram
 
-  ![Lab overview.](../media/labscenario.1.png)
+  ![Lab overview.](../media/lab02part1.png.png)
 
 ### Task 1: Persistence Attack with Registry Key Add 
 
