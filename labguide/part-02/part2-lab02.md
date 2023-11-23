@@ -23,7 +23,7 @@ Analytics rules search for specific events or sets of events across your environ
 
 In this task, you'll create a Microsoft Teams team for use in the lab.
 
-1. In the lab virtual machine, select **microsoft Teams** icon from the desktop and select to open.
+1. In the lab virtual machine, select **microsoft Teams** icon from the desktop and click to open.
 
 1. Close any Teams pop-ups that may appear.
 
