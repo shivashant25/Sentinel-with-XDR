@@ -155,3 +155,4 @@ overview of the workbook.
 ## Review
  In this lab, you will Understand following:
  - Save and modify a workbook template
+ - Create a Workbook
