@@ -13,7 +13,7 @@ In this lab, you will complete the following task:
 
 ## Architecture diagram
 
-![](../media/sc900lab7-(1).png)
+![](../media/part1lab03.png)
 
 ## Task 1:  Create a Microsoft Sentinel instance
 
