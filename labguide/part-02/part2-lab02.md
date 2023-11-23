@@ -17,7 +17,7 @@ Analytics rules search for specific events or sets of events across your environ
 
 ## Architecture Diagram
 
-  ![Lab overview.](../media/sc200ex7.1.png)
+  ![Lab overview.](../media/lab02part2.png)
 
 ### Task 1: Create a Security Operations Center Team in Microsoft Teams
 
