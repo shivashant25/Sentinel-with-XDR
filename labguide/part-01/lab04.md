@@ -10,19 +10,18 @@ Microsoft Sentinel allows you to create custom workbooks across your data and al
 
 ## Lab objectives
  In this lab, you will Understand following:
- - Task 1: Explore workbook templates
- - Task 2: Save and modify a workbook template
- - Task 3: Create a Workbook
+ - Task 1: Save and modify a workbook template
+ - Task 2: Create a Workbook
 
-## Estimated timing: 20 minutes
+## Estimated timing: 30 minutes
 
 ## Architecture Diagram
 
  ![Lab overview.](../media/SC-200ex10.1.png)
 
-### Task 1: Explore workbook templates
+### Task 1: Save and modify a workbook template
 
-In this task, you will explore the Microsoft Sentinel workbook templates.
+In this task, you will save the Microsoft Sentinel workbook templates.
 
 1. In the Search bar of the Azure portal, type *Microsoft Sentinel*, then select **Microsoft Sentinel**.
 
@@ -34,17 +33,11 @@ In this task, you will explore the Microsoft Sentinel workbook templates.
 
    ![Picture 1](../media/image_10.png)
 
-1. Select the *Templates* tab, search and select the **Azure Activity** template workbook. In the right pane, scroll down and select the **View template** button.
+1. Select the *Templates* tab, search and select the **Azure Activity** template workbook.
 
-1. Review the contents of the workbook. It shows insights into your Azure subscription operations by collecting and analyzing the data from the Activity Log.
+   ![Picture 1](../media/image_28.png)
 
-1. Close the workbook by selecting the **X** in the top-right corner.
-
-### Task 2: Save and modify a workbook template
-
-In this task, you will save a workbook template and modify it.
-
-1. You should be back in the **Microsoft Sentinel - Workbooks - Templates** tab. Scroll down again and select the **Save** button for the *Azure Activity* workbook. 
+1. Scroll down again and select the **Save** button for the *Azure Activity* workbook. 
 
    ![Picture 1](../media/savedactivity.png)
 
@@ -56,7 +49,7 @@ In this task, you will save a workbook template and modify it.
 
 1. Select **Edit** in the command bar to enable changes in the workbook.
 
-1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid.
+1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid and select the ellipsis (...) Select the Add query run the **SecurityEvent**.
 
    ![Picture 1](../media/editcaller.png)
 
@@ -74,7 +67,7 @@ In this task, you will save a workbook template and modify it.
 
 1. Close the workbook by selecting the **X** in the top-right corner.
 
-### Task 3: Create a Workbook
+### Task 2: Create a Workbook
 
 In this task, you will create a new workbook with advanced visualizations.
 
@@ -112,6 +105,8 @@ overview of the workbook.
 1. Select the **Make this item a custom width** box.
 
 1. Set the *Percent width* to **25** and *Maximum width* to **25**.
+
+    ![Picture 1](../media/image_22.1.png)
 
 1. Now select **Advanced Settings** tab from the query's command bar.
 
@@ -159,6 +154,5 @@ overview of the workbook.
 
 ## Review
  In this lab, you will Understand following:
- - Explore workbook templates
  - Save and modify a workbook template
  - Create a Workbook

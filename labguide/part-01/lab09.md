@@ -12,13 +12,13 @@ You are a Security Operations Analyst working at a company that is implementing 
 - Task 2: Initialize the Microsoft Sentinel Workspace.
 - Task 3: Connect the Windows security event connector.
 - Task 4: Enable Microsoft Defender for Cloud
-- Run Basic KQL Statements
 - Task 5: Protect an On-Premises Server.
-- Task 6: Access the KQL testing area.
-- Task 7: Run Basic KQL Statements
-- Task 8: Analyze Results in KQL with the Summarize Operator
-- Task 9: Create visualizations in KQL with the Render Operator
-- Task 10: Build multi-table statements in KQL
+- Task 6: Create Microsoft Sentinel Training Lab Solution.
+- Task 7: Access the KQL testing area.
+- Task 8: Run Basic KQL Statements
+- Task 9: Analyze Results in KQL with the Summarize Operator
+- Task 10: Create visualizations in KQL with the Render Operator
+- Task 11: Build multi-table statements in KQL
 
 ## Estimated timing: 90 minutes
 
@@ -53,7 +53,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
 
-1. Next, In Add Microsoft Sentinel to a workspace page.
+1. Create, In Add Microsoft Sentinel to a workspace page.
 
 1. Select your existing workspace that was created in the previous lab, then select **Add**. This could take a few minutes.
 
@@ -77,7 +77,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 1. Under configuration choose **Install agent on Azure Windows Virtual Machine** and select **Download & install agent for Azure Windows Virtual machines** 
 
-1. Select the **WIN 1** virtual machine and click on connect
+1. Select the **svm-xxx** virtual machine and click on connect
 
 1. Then come back to Configuration and scroll down a bit you can find **Select which events to stream** Click on **All Events**
 
@@ -91,13 +91,11 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. click the left menu and click on **Getting started**
 
-1. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected, and then select the **Upgrade** button at the bottom of the page. Wait for the *Trial started* notification to appear, it takes about 2 minutes. **Hint:** You can click the bell button on the top bar to review your Azure portal notifications.
-
-    ![Picture 1](../media/SC-200-img2.png)
+1. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected, and then select the **Upgrade** button at the bottom of the page. Wait for 2-5 minutes to complete it takes time.
 
 1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
 
-1. Select the **"MOC HOL XXXX"** subscription (or equivalent name in your Language). 
+1. Select the subscription (or equivalent name in your Language). 
 
 1. Review the Azure resources that are now protected with the Defender for Cloud plans.
 
@@ -121,7 +119,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 In this task, you will manually install the required agent on the Windows Server.
 
-1. On the WIN1 Virtual machine, Go to **Microsoft Defender for Cloud** and select the **Getting Started** page.
+1. On the Virtual machine, Go to **Microsoft Defender for Cloud** and select the **Getting Started** page.
 
 1. Select the **Get Started** tab.
 
@@ -149,9 +147,23 @@ In this task, you will manually install the required agent on the Windows Server
 
 1. The Server should appear in the list. You may have to select **Refresh** to see the update and it will take a few minutes.
 
-    ![Picture 1](../media/SC-200-img26.png)
+    ![Picture 1](../media/image_29.png)
 
-### Task 6: Access the KQL testing area.
+### Task 6: Create Microsoft Sentinel Training Lab Solution
+
+In this task, you will create microsoft sentinel training lab solution.
+    
+1. In the search bar of the Azure Portal, type Microsoft Sentinal and select Microsoft Sentinel Training Lab Solution. 
+
+    ![Picture 1](../media/image_100.png)
+
+1. Click on create, select resource group and workspace.
+
+1. Click on next and give Display name as 'Investigation Insights'.
+
+1. Click on Review + create and click on create.
+
+### Task 7: Access the KQL testing area.
 
 In this task, you will access a Log Analytics environment where you can practice writing KQL statements.
 
@@ -171,7 +183,7 @@ In this task, you will access a Log Analytics environment where you can practice
 
     ![Picture 1](../media/SC-200-img-7.png)
 
-### Task 7: Run Basic KQL Statements
+### Task 8: Run Basic KQL Statements
 
 In this task, you will build basic KQL statements.
 
@@ -188,11 +200,15 @@ In this task, you will build basic KQL statements.
     ```
     ![Picture 1](../media/SC-200-img9.png)
 
+    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**.
+
 1. The following statement demonstrates **search** across tables listed within the **in** clause. In the Query Window enter the following statement and select **Run**: 
 
     ```KQL
     search in (SecurityEvent,SecurityAlert,A*) "err"
     ```
+
+    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**
 
 1. Change back the **Time range** to **Last 24 hours** in the Query Window.
 
@@ -299,7 +315,7 @@ In this task, you will build basic KQL statements.
     | project-away ProcessName
     ```
 
-### Task 8: Analyze Results in KQL with the Summarize Operator
+### Task 9: Analyze Results in KQL with the Summarize Operator
 
 In this task, you will build KQL statements to aggregate data. **Summarize** groups the rows according to the **by** group columns, and calculates aggregations over each group.
 
@@ -365,7 +381,7 @@ In this task, you will build KQL statements to aggregate data. **Summarize** gro
     | summarize make_set(Account) by Computer
     ```
 
-### Task 9: Create visualizations in KQL with the Render Operator
+### Task 10: Create visualizations in KQL with the Render Operator
 
 In this task, you will use generate visualizations with KQL statements.
 
@@ -387,7 +403,7 @@ In this task, you will use generate visualizations with KQL statements.
     | render timechart
     ```
 
-### Task 10: Build multi-table statements in KQL
+### Task 11: Build multi-table statements in KQL
 
 In this task, you will build multi-table KQL statements.
 
@@ -447,7 +463,6 @@ In this lab, you have completed the following:
 - Initialized the Microsoft Sentinel Workspace.
 - Connected the Windows security event connector.
 - Enabled Microsoft Defender for Cloud
-- Ran Basic KQL Statements
 - Protected an On-Premises Server.
 - Able to access the KQL testing area.
 - Ran Basic KQL Statements
