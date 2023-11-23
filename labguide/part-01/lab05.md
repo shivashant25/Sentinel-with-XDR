@@ -87,7 +87,7 @@ In this task, you will create an Azure DevOps repository.
 
    ![Picture 1](../media/thirdpartyauth.png)
 
-### Task 3: Connect Sentinel to Azure DevOps.
+### Task 3: Connect Sentinel to Azure DevOps
 
 1. Select the *Azure Portal*/*Microsoft Sentinel* tab in your browser.
 
