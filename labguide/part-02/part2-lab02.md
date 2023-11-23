@@ -23,13 +23,9 @@ Analytics rules search for specific events or sets of events across your environ
 
 In this task, you'll create a Microsoft Teams team for use in the lab.
 
-1. Log in to WIN1 virtual machine as Admin with the password: **Pa55w.rd**.  
+1. Log in to virtual machine as Admin with the password: **Pa55w.rd**.  
 
 1. In the Microsoft Edge browser, open a new tab and navigate to the Microsoft Teams portal at (https://teams.microsoft.com).
-
-1. In the **Sign in** dialog box, copy and paste in the **Tenant Email** account provided by your lab hosting provider and then select **Next**.
-
-1. In the **Enter password** dialog box, copy and paste in the **Tenant Password** provided by your lab hosting provider and then select **Sign in**.
 
 1. Close any Teams pop-ups that may appear.
 
@@ -122,9 +118,9 @@ In this task, you'll update the new playbook you created with the proper connect
 
 1. Do the same for the *Channel* field, select the **X** at the end of the field to clear the contents. The field is changed to a drop-down with a listing of the Channels of the SOC Teams. Select **New Alerts**.
 
-1. Select **Save** on the command bar. The Logic App will be used in a future lab.
+1. Select **Save** on the command bar. The Logic App will be used in a future task.
 
-### Task 3: Persistence Attack Detection
+### Task 4: Persistence Attack Detection
 
 >**Important:** The next steps are done on a different machine than the one you were previously working on. Look for the Virtual Machine name references.
 
