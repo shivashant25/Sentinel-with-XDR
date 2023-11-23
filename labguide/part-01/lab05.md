@@ -1,12 +1,29 @@
-## Lab 05 - Create and export an analytical rule
+
+# Part:1 Lab 04 - Use Repositories in Microsoft Sentinel
+
+## Lab scenario
+
+You are a Security Operations Analyst working at a company that implemented Microsoft Sentinel. You already created Scheduled and Microsoft Security Analytics rules.  You need to centralize analytical rules in an Azure DevOps repository.  Then connect Sentinel to the Azure DevOps repository and import the content. 
+
+>**Note:** An **[interactive lab simulation](https://mslabs.cloudguides.com/guides/SC-200%20Lab%20Simulation%20-%20Use%20repositories%20in%20Microsoft%20Sentinel)** is available that allows you to click through this lab at your own pace. You may find slight differences between the interactive simulation and the hosted lab, but the core concepts and ideas being demonstrated are the same.
+
+## Lab objectives
+ In this lab, you will Understand following:
+ - Task 1: Create and export an analytical rule
+ - Task 2: Create our Azure DevOps environment
+ - Task 3: Connect Sentinel to Azure DevOps.
+
+## Estimated timing: 30 minutes
+
+## Architecture Diagram
+
+   ![](../media/sc200mod7ex11.png)
 
 ### Task 1: Create and export an analytical rule
 
 In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
-
-   ![Picture 1](../media/image_7.png)
 
 1. Select your Microsoft Sentinel Workspace.
 
@@ -103,3 +120,9 @@ In this task, you will create an Azure DevOps repository.
     ![Picture 1](../media/failed.png)
 
     >**Note:** The *Failed* status is due to limitations in the hosted lab environment. You would normally see *Succeeded*. Then you can see in the *Analytics* the imported rule *Rule from Azure DevOps*.
+
+## Review
+ In this lab, you will Understand following:
+ - Create and export an analytical rule
+ - Create our Azure DevOps environment
+ - Connect Sentinel to Azure DevOps.

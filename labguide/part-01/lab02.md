@@ -1,4 +1,4 @@
-## Lab 02 - Deploy Microsoft Defender for Endpoint
+## Part:1 Lab 02 - Deploy Microsoft Defender for Endpoint
 
 ## Lab scenario
 
@@ -8,6 +8,19 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 
 >**Important:**  The lab Virtual Machines are used through different modules. SAVE your virtual machines. If you exit the lab without saving, you will be required to re-run some configurations again.
 
+## Lab objectives
+In this lab, you will perform the following:
+- Task 1: Preparing the Microsoft 365 Defender workspace
+- Task 2: Initialize Microsoft Defender for Endpoint
+- Task 3: Onboard a Device
+- Task 4: Configure Roles
+- Task 5: Configure Device Groups
+
+## Estimated timing: 60 minutes
+
+## Architecture Diagram
+
+  ![Picture 1](../media/SC200-Lab_Diagrams_Mod2_L1_Ex1.png)
 
 ### Task 1: Preparing the Microsoft Defender workspace
 
@@ -27,9 +40,9 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
 1. In the Edge browser, go to the Microsoft Defender portal at (https://security.microsoft.com).
 
-1. In the **Sign in** dialog box, copy and paste * Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
+1. In the **Sign in** dialog box, copy and paste Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
 
-1. In the **Enter password** dialog box, copy and paste * Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
+1. In the **Enter password** dialog box, copy and paste Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
 
 1. On the **Microsoft Defender** portal, from the navigation menu, select **Settings** from the left.
 
@@ -169,3 +182,11 @@ In this task, you will configure device groups that allow for access control and
 1. Device group configuration has changed. Select **Apply changes** to check matches and recalculate groupings.
 
 1. You are going to have two device groups now; the **Regular** you just created and the **Ungrouped devices (default)** with the same remediation level.
+
+## Review
+In this lab, you will perform the following:
+- Preparing the Microsoft 365 Defender workspace
+- Initialize Microsoft Defender for Endpoint
+- Onboard a Device
+- Configure Roles
+- Configure Device Groups

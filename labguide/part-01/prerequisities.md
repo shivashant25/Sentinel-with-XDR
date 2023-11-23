@@ -1,10 +1,10 @@
-# LAB PREREQUISITES
+# Part 02: Threat Protection using XDR
 
-## Estimated timing: 40 minutes
+### Estimated timing: 40 minutes
 
-## Prerequisites to be completed before proceeding to further exercises
+### Prerequisites
 
-### Prerequisite 01
+>Note: Prerequisites to be completed before proceeding to further exercises
 
 ### Task 1: Connect a non-Azure Windows Machine
 
