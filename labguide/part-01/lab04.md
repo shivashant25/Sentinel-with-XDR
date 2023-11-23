@@ -49,7 +49,7 @@ In this task, you will save the Microsoft Sentinel workbook templates.
 
 1. Select **Edit** in the command bar to enable changes in the workbook.
 
-1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid and select the ellipsis (...) Select the Add query run the **SecurityEvent**.
+1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid and select the ellipsis (...) Select the Add query run query **SecurityEvent**.
 
    ![Picture 1](../media/editcaller.png)
 

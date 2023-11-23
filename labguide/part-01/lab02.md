@@ -10,7 +10,7 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 
 ## Lab objectives
 In this lab, you will perform the following:
-- Task 1: Preparing the Microsoft 365 Defender workspace
+- Task 1: Preparing the Microsoft Defender workspace
 - Task 2: Initialize Microsoft Defender for Endpoint
 - Task 3: Onboard a Device
 - Task 4: Configure Roles
@@ -22,11 +22,11 @@ In this lab, you will perform the following:
 
   ![Picture 1](../media/SC200-Lab_Diagrams_Mod2_L1_Ex1.1.png)
 
-### Task 1: Preparing the Microsoft 365 Defender workspace
+### Task 1: Preparing the Microsoft Defender workspace
 
-1. On the **Microsoft 365 Defender** portal(https://security.microsoft.com/), from the navigation menu, select **Settings** from the left.
+1. On the **Microsoft Defender** portal(https://security.microsoft.com/), from the navigation menu, select **Settings** from the left.
 
-1. On the **Settings** page select **Microsoft 365 Defender**. You are going to see an image of a coffee mug and a message that reads: *Hang on! We're preparing new spaces for your data and connecting them.*. It will take several minutes to finish, so leave the page open but make sure it finishes since it is required for the next Lab. 
+1. On the **Settings** page select **Microsoft Defender**. You are going to see an image of a coffee mug and a message that reads: *Hang on! We're preparing new spaces for your data and connecting them.*. It will take several minutes to finish, so leave the page open but make sure it finishes since it is required for the next Lab. 
 
     >**Note:** If you get the error message "We didn't plan it will fail, but something went wrong." retry the step later or do it before the next Lab.
 
@@ -36,21 +36,21 @@ In this lab, you will perform the following:
 
 In this task, you will perform the initialization of the Microsoft Defender for the Endpoint portal.
 
-1. If you are not already at the Microsoft 365 Defender portal, start the Microsoft Edge browser.
+1. If you are not already at the Microsoft Defender portal, start the Microsoft Edge browser.
 
-1. In the Edge browser, go to the Microsoft 365 Defender portal at (https://security.microsoft.com).
+1. In the Edge browser, go to the Microsoft Defender portal at (https://security.microsoft.com).
 
 1. In the **Sign in** dialog box, copy and paste Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
 
 1. In the **Enter password** dialog box, copy and paste Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
 
-1. On the **Microsoft 365 Defender** portal, from the navigation menu, select **Settings** from the left.
+1. On the **Microsoft Defender** portal, from the navigation menu, select **Settings** from the left.
 
 1. On the **Settings** page select **Device discovery**. 
 
     ![Picture 1](../media/SC200-img1.png)
 
-    >**Note:** If you do not see the **Device discovery** option under **Settings**, log out by selecting the top-right circle with your account initials and select **Sign out**. Other options that you might want to try are to refresh the page with Ctrl+F5 wait for 10-15 minutes or open the page InPrivate. Login again with the **Tenant Email** credentials.
+    >**Note:** If you do not see the **Device discovery** option under **Settings**, log out by selecting the top-right circle with your account initials and select **Sign out**. Other options that you might want to try are to refresh the page, wait for 20-25 minutes or open the page InPrivate. Login again with the **Tenant Email** credentials.
 
 1. In the Discovery setup make sure **Standard discovery (recommended)** is selected. 
     >**Hint:** If you do not see the option, refresh the page.
@@ -59,7 +59,7 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
 In this task, you will onboard a device to Microsoft Defender for Endpoint using an onboarding script.
 
-1. If you are not already at the Microsoft 365 Defender portal in your browser, start the Microsoft Edge browser go to (https://security.microsoft.com) and log in with the **Tenant Email** credentials.
+1. If you are not already at the Microsoft Defender portal in your browser, start the Microsoft Edge browser go to (https://security.microsoft.com) and log in with the **Tenant Email** credentials.
 
 1. Select **Settings** from the left menu bar, then from the Settings page select **Endpoints**.
 
@@ -85,7 +85,7 @@ In this task, you will onboard a device to Microsoft Defender for Endpoint using
 
     ![Picture 1](../media/SC-200-img25.png)
 
-1. Back in the Onboarding page from the Microsoft 365 Defender portal, under the section "2. Run a detection test", copy the detection test script by selecting the **Copy** button.  
+1. Back in the Onboarding page from the Microsoft Defender portal, under the section "2. Run a detection test", copy the detection test script by selecting the **Copy** button.  
 
 1. In the windows search bar of the virtual machine, type **CMD** and choose **Run as Administrator** on the right pane for the Command Prompt app. 
 
@@ -93,7 +93,7 @@ In this task, you will onboard a device to Microsoft Defender for Endpoint using
 
 1. Paste the script by right-clicking in the **Administrator: Command Prompt** windows and press **Enter** to run it. **Note:** The window closes automatically after running the script.
 
-1. In the Microsoft 365 Defender portal, in the left-hand menu, under the **Assets** area, select **Devices**. If the device is not shown, complete the next task and come back to check it back later. It can take up to 60 minutes for the first device to be displayed in the portal.
+1. In the Microsoft Defender portal, in the left-hand menu, under the **Assets** area, select **Devices**. If the device is not shown, complete the next task and come back to check it back later. It can take up to 60 minutes for the first device to be displayed in the portal.
 
      ![Picture 1](../media/SC-200-img22.png)
 
@@ -154,7 +154,7 @@ In this task, you will configure roles for use with device groups.
 
 In this task, you will configure device groups that allow for access control and automation configuration.
 
-1. In the Microsoft 365 Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
+1. In the Microsoft Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
 
 1. Select **Device groups** under the permissions area.
 

@@ -28,7 +28,7 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. In the Monitoring coverage column of the Defender for Server plan, select Settings.
 
-1. In the status of the Endpoint protection component, select On to enable the integration with Microsoft Defender for Endpoint. If its already enable then no need to change.
+1. In the status of the Endpoint protection component, select **On** to enable the integration with Microsoft Defender for Endpoint. If its already enable then no need to change.
 
      ![Picture 1](../media/Endpoint_Protection_1.png)
 
