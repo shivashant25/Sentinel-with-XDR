@@ -8,6 +8,7 @@ Analytics rules search for specific events or sets of events across your environ
 
 ## Lab objectives
  In this lab, you will Understand following:
+- Task 1: Playbook creation.
 - Task 1: Persistence Attack Detection
 - Task 2: Privilege Elevation Attack Detection
 
@@ -17,7 +18,25 @@ Analytics rules search for specific events or sets of events across your environ
 
   ![Lab overview.](../media/sc200ex7.png)
 
-### Task 1: Persistence Attack Detection
+### Task 1: Playbook Creation.
+In this task, you will create a playbook for next task.
+
+1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
+
+1. Select the Microsoft Sentinel Workspace you created earlier.
+
+1. Select the **Automation** form the *Configuration* section.
+
+1. Click on create and select **Playbook with incident trigger**.
+
+1. Select the resource group and give  playbook name **PostMessageTeams-OnIncident**
+
+1. Select Enable diagnostics logs in Log Analytics and select your workspace.
+
+1. Click on Next:Connections, Review + Create  and Click on Create and continue to designer.
+
+
+### Task 2: Persistence Attack Detection
 
 >**Important:** The next steps are done on a different machine than the one you were previously working on. Look for the Virtual Machine name references.
 
@@ -110,7 +129,7 @@ In this task, you will create a detection for the first attack of the previous e
   
 1. On the *Review and create* tab, select the **Create** button to create the new Scheduled Analytics rule.
 
-### Task 2: Privilege Elevation Attack Detection
+### Task 3: Privilege Elevation Attack Detection
 
 In this task, you will create a detection for the second attack of the previous exercise.
 
