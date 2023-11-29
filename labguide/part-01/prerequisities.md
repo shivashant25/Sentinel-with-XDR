@@ -139,7 +139,7 @@ In this task, you will install Azure Arc and connect a non-Azure Windows virtual
 
 1. Wait a few minutes and then select **Refresh** to see the new data collection rule listed.
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> You have successfully completed the prerequisities. Now, it's time to validate it. Here are the steps:
 
 - Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
 - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 

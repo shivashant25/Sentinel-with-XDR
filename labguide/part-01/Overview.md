@@ -18,7 +18,7 @@ Contoso is a global organization with a complex IT infrastructure that includes 
 
 By implementing a robust log analytics and threat detection program, Contoso aims to proactively identify and mitigate threats, reduce the risk of security breaches, and maintain a strong security posture in an ever-evolving threat landscape. This approach will enable Contoso to stay ahead of potential threats and protect its digital assets effectively.
 
-## Using the Sandbox
+## Using this Sandbox
 
 In this sandbox environment, You'll have access to a predeployed environment with an active Azure subscription, a tenant, and a Microsoft 365 E5 license assigned to the user. 
 
