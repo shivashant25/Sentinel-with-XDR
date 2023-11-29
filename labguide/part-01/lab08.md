@@ -1,13 +1,11 @@
-## Part:1 Lab 08- Ingest Logs from Azure AD
+## Part:1 Lab 08 - Ingest Logs from Azure AD
 
 ## Lab scenario
 Set up log ingestion from Azure Active Directory (Azure AD) into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
 
-## Lab objectives
+## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:
 - Task 1: Ingesting logs from Azure AD to Sentinel
-
-## Estimated timing: 45 minutes
 
 ## Architecture Diagram
 

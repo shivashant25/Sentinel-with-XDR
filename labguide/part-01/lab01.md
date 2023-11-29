@@ -3,12 +3,10 @@
 ## Lab scenario
  You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.
 
-## Lab objectives
+## Lab objectives ( Duration: 120 minutes)
 In this lab, you will complete the following tasks:
 - Task 1: Create a Log Analytics Workspace
 - Task 2: Enable Microsoft Defender for Cloud
-    
-## Estimated timing: 120 minutes
 
 ## Architecture Diagram
 

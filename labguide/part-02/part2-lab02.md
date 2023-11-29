@@ -1,4 +1,4 @@
-## Part:2 Lab 02 Create Detections
+## Part:2 Lab - 02 Create Detections
 
 ## Lab scenario
 
@@ -6,14 +6,12 @@ You are a Security Operations Analyst working at a company that implemented Micr
 
 Analytics rules search for specific events or sets of events across your environment, alert you when certain event thresholds or conditions are reached, generate incidents for your SOC to triage and investigate, and respond to threats with automated tracking and reMediation processes.
 
-## Lab objectives
+## Lab objectives (Duration: 120 minutes)
  In this lab, you will Understand following:
 - Task 1: Create a Security Operations Center Team in Microsoft Teams
 - Task 2: Create a Playbook in Microsoft Sentinel
 - Task 3: Update a Playbook in Microsoft Sentinel
 - Task 4: Persistence Attack Detection
-
-## Estimated timing: 120 minutes
 
 ## Architecture Diagram
 

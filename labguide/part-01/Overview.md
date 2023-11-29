@@ -26,7 +26,7 @@ Using this environment, You'll be able explore complete features and offerings o
 
 The lab scenarios are given as reference material to assist you to get started with the exploration. You are encouraged to explore Microsoft Purview further based on your interests and preferences.
 
-### Contents:
+## Contents:
 
 ### Part - 01: Microsoft Sentinel
 
