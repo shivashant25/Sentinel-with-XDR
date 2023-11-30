@@ -40,7 +40,7 @@ The lab scenarios are given as reference material to assist you to get started w
 - Lab 08 - Ingest Logs from Azure AD
 - Lab 09 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
-### Part - 03: Threat Protection using XDR
+### Part - 02: Threat Protection using XDR
 
 - Prerequisites
 - Lab 01 - Conduct attacks
