@@ -1,4 +1,4 @@
-# Overview of Sentinel
+# Overview of Microsoft Sentinel
 
 ## Security Information and Event Management with Microsoft Sentinel
 
