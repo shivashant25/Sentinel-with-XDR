@@ -22,9 +22,9 @@ By implementing a robust log analytics and threat detection program, Contoso aim
 
 In this sandbox environment, You'll have access to a predeployed environment with an active Azure subscription, a tenant, and a Microsoft 365 E5 license assigned to the user. 
 
-Using this environment, You'll be able explore complete features and offerings offered by Microsoft Sentinel including XDR protection.
+Using this environment, You'll be able to explore complete features and offerings offered by Microsoft Sentinel including XDR protection.
 
-The lab scenarios are given as reference material to assist you to get started with the exploration. You are encouraged to explore Microsoft Purview further based on your interests and preferences.
+The lab scenarios are given as reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft Purview further based on your interests and preferences.
 
 ## Contents:
 
@@ -45,7 +45,7 @@ The lab scenarios are given as reference material to assist you to get started w
 - Prerequisites
 - Lab 01 - Conduct attacks
 - Lab 02 - Create Detections
-- Lab 03 - Investigate an Incidents
+- Lab 03 - Investigate an Incident
 
 ### Azure services and related products
 
