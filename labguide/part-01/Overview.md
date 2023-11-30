@@ -1,10 +1,10 @@
-# Overview of Microsoft Sentinel
+# SIEM with Microsoft Sentinel 
 
-## Security Information and Event Management with Microsoft Sentinel
+## Overview
 
 Microsoft Sentinel is a powerful tool for collecting, analyzing, and responding to security data, while threat hunting is a proactive approach that complements automated security measures by actively searching for hidden threats. Together, they form a comprehensive strategy to enhance an organization's cybersecurity posture and protect against a wide range of threats.
 
-## Key features of Microsoft Sentinel
+### Key features of Microsoft Sentinel
 
 - Log Collection: Microsoft Sentinel collects and centralizes log data from a wide range of sources, including servers, applications, devices, and cloud services.
 - Threat Detection: It uses built-in and custom detection rules to identify suspicious activities and security threats in real time.
