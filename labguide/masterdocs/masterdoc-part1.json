@@ -9,59 +9,59 @@
         },
        {
         "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/Overview.md",
-        "Order": 1
-        },
-        {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab01.md",
         "Order": 2
         },
         {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab02.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab01.md",
         "Order": 3
+        },
+        {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab02.md",
+        "Order": 4
        },
        {
         "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab03.md",
-        "Order": 4
-      },
-      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab04.md",
         "Order": 5
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab05.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab04.md",
         "Order": 6
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab06.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab05.md",
         "Order": 7
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab07.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab06.md",
         "Order": 8
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab08.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab07.md",
         "Order": 9
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab09.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab08.md",
         "Order": 10
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/prerequisities.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/lab09.md",
         "Order": 11
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab01.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/prerequisities.md",
         "Order": 12
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab02.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab01.md",
         "Order": 13
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab03.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab02.md",
         "Order": 14
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-02/part2-lab03.md",
+        "Order": 15
       }
      ]  
    }
