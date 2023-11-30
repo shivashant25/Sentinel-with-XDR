@@ -34,7 +34,7 @@ In this task, you will install Azure Arc and connect a non-Azure Windows virtual
 
  1. On the **Stay signed in?** dialog box, select the Don’t show this again check box and then select **No**.
 
-   >**Note:** If you are not able to copy-paste the username and password then:
+    >**Note:** If you are not able to copy-paste the username and password then:
     - Go to Hyper-V manager.
     - On the left-right click on **WINSERVER**.
     - Click on Hyper-V settings.
