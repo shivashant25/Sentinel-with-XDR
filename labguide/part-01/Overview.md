@@ -52,5 +52,5 @@ The lab scenarios are given as reference material to assist you in getting start
 - Log Analytics Workspace
 - Microsoft Defender for Cloud
 - Microsoft Defender for Endpoint
-- Azure Entra ID
+- Microsoft Entra ID
 - Microsoft Sentinel
