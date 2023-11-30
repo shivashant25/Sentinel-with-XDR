@@ -4,6 +4,10 @@
     "Language": "English",
     "Files": [
       {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/Gettingstarted.md",
+        "Order": 1
+        },
+       {
         "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Sentinel-with-XDR/main/labguide/part-01/Overview.md",
         "Order": 1
         },
