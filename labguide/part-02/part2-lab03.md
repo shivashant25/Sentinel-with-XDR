@@ -20,13 +20,16 @@ In this task, you will investigate an incident.
 
 1. Select your Microsoft Sentinel Workspace you created earlier.
 
-1. Select the **Incidents** page.
+1. Select the **Incidents** page under Threat management from left side blade.
 
 1. Review the list of incidents.
 
     >**Note:** The Analytics rules are generating alerts and incidents on the same specific log entry. Remember that this was done in the *Query scheduling* configuration to generate more alerts and incidents to be utilized in the lab.
   
 1. Select one of the **Startup RegKey** incidents.
+   >**Note:** If its not show the page click on the << icon appear on the right side.
+
+   ![Lab overview.](../media/active.png)
 
 1. Review the incident details on the right blade that opened. Scroll down and select the **View full details** button.
 
@@ -46,7 +49,7 @@ In this task, you will investigate an incident.
 
 1. Hide the left blade by selecting the **<<** icon next to the owner.
 
-1. Review the **Incident timeline** window. For the *Startup RegKey* alert, select the ellipsis **(...) (1)** icon and then **Run playbook (2)**. You will see the *PostMessageTeams-OnAlert* playbook. This option helps you to run playbooks manually.
+1. Review the **Incident timeline** window. For the *Startup RegKey* alert, select the ellipsis **(...) (1)** icon and then **Run playbook (2)**. You will see the *Alert playbooks*. This option helps you to run playbooks manually.
 
     ![Lab overview.](../media/runplaybook.png)
 

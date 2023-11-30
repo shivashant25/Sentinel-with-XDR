@@ -28,7 +28,7 @@ In this lab, you will perform the following:
 
     >**Note:** If you get the error message "We didn't plan it will fail, but something went wrong." retry the step later or do it before the next Lab.
 
-1. When the new space completes successfully, you are going to see the Microsoft 365 Defender settings for Account, Email notifications, Preview features and Streaming API.
+1. When the new space completes successfully, you are going to see the Microsoft Defender settings for Account, Email notifications, Preview features and Streaming API.
 
 ### Task 2: Initialize Microsoft Defender for Endpoint
 
@@ -129,7 +129,7 @@ In this task, you will configure roles for use with device groups.
 
 1. Select **Create** and click on **Yes**. 
 
-1. In the Microsoft 365 Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
+1. In the Microsoft Defender portal select **Settings** from the left menu bar, then select **Endpoints**. 
 
 1. Select **Roles** under the permissions area.
 
@@ -144,9 +144,9 @@ In this task, you will configure roles for use with device groups.
     |Role name|**Tier 1 Support**|
     |Permissions|Live Response capabilities - Advanced|
 
-1. Select the **Assigned user groups** tab on the top. Select **sg-IT** and then select **Add selected groups**. Make sure it appears under *Azure AD user groups with this role*.
+1. Select the **Assigned user groups** by click on next. Select **sg-IT** and then select **Add selected groups**. Make sure it appears under *Azure AD user groups with this role*.
 
-1. Select **Submit**. If you receive an error while saving the role, refresh the page and try again.
+1. Select **Submit** and Done. If you receive an error while saving the role, refresh the page and try again.
 
 ### Task 5: Configure Device Groups
 

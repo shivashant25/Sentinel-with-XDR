@@ -47,7 +47,7 @@ In this task, you will save the Microsoft Sentinel workbook templates.
 
 1. Select **Edit** in the command bar to enable changes in the workbook.
 
-1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid and select the ellipsis (...) Select the Add query run query **SecurityEvent**.
+1. Scroll down to the *Caller activities over time* area, look at the color of the *Activities* column since we are going to format those columns. Select the **Edit** button below the grid and select the ellipsis (...) Select the Add query run the **SecurityEvent**.
 
    ![Picture 1](../media/editcaller.png)
 
@@ -104,7 +104,7 @@ overview of the workbook.
 
 1. Set the *Percent width* to **25** and *Maximum width* to **25**.
 
-    ![Picture 1](../media/image_22.1.png)
+    ![Picture 1](../media/image_22.png)
 
 1. Now select **Advanced Settings** tab from the query's command bar.
 
