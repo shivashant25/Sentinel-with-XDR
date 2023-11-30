@@ -3,14 +3,12 @@
 ## Lab scenario
 Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and analyze security event logs from Microsoft Defender for Endpoint to enhance threat detection and response within the organization.
 
-## Lab objectives
+## Lab objectives (Duration: 120 minutes)
 
 In this lab, you will complete the following tasks:
 - Task 1: Explore defender for ingest data
 - Task 2: Verify installation of Defender for Endpoint on a machine
 - Task 3: Ingesting data to Sentinel from Microsoft Defender
-    
-## Estimated timing: 120 minutes
 
 ## Architecture Diagram
 
@@ -28,18 +26,17 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. In the Monitoring coverage column of the Defender for Server plan, select Settings.
 
-1. In the status of the Endpoint protection component, select On to enable the integration with Microsoft Defender for Endpoint. If its already enable then no need to change.
+1. In the status of the Endpoint protection component, select **On** to enable the integration with Microsoft Defender for Endpoint. If its already enable then no need to change.
 
-     ![Picture 1](../media/Endpoint_Protection_1.png)
-
-Automatically onboard your Windows machines to Defender for Endpoint, Detect any previous installations of Defender for Endpoint and reconfigure them to integrate with Defender for Cloud.Onboarding might take up to 1 hour.
+   ![Picture 1](../media/Endpoint_Protection_1.png)
+   
+   > Automatically onboard your Windows machines to Defender for Endpoint, Detect any previous installations of Defender for Endpoint and reconfigure them to integrate with Defender for Cloud.Onboarding might take up to 1 hour.
 
 1. Select Continue and Save to save your settings.
 
-
 ### Task 2: Verify installation of Defender for Endpoint on a machine
 
-In your vm search for the **Services**, will find Microsoft Monitoring Agent is Running.
+1. In your vm search for the **Services**, will find Microsoft Monitoring Agent is Running.
 
 ### Task 3: Ingesting data to Sentinel from Microsoft Defender 
 

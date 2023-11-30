@@ -1,5 +1,5 @@
 
-# Part:1 Lab 04 - Use Repositories in Microsoft Sentinel
+## Part:1 Lab 05 - Use Repositories in Microsoft Sentinel
 
 ## Lab scenario
 
@@ -7,17 +7,15 @@ You are a Security Operations Analyst working at a company that implemented Micr
 
 >**Note:** An **[interactive lab simulation](https://mslabs.cloudguides.com/guides/SC-200%20Lab%20Simulation%20-%20Use%20repositories%20in%20Microsoft%20Sentinel)** is available that allows you to click through this lab at your own pace. You may find slight differences between the interactive simulation and the hosted lab, but the core concepts and ideas being demonstrated are the same.
 
-## Lab objectives
+## Lab objectives (Duration: 30 minutes)
  In this lab, you will Understand following:
  - Task 1: Create and export an analytical rule
  - Task 2: Create our Azure DevOps environment
  - Task 3: Connect Sentinel to Azure DevOps.
 
-## Estimated timing: 30 minutes
-
 ## Architecture Diagram
 
-   ![](../media/sc200mod7ex11.png)
+   ![](../media/sc200mod7ex11.1.png)
 
 ### Task 1: Create and export an analytical rule
 
@@ -87,7 +85,7 @@ In this task, you will create an Azure DevOps repository.
 
    ![Picture 1](../media/thirdpartyauth.png)
 
-### Task 3: Connect Sentinel to Azure DevOps.
+### Task 3: Connect Sentinel to Azure DevOps
 
 1. Select the *Azure Portal*/*Microsoft Sentinel* tab in your browser.
 

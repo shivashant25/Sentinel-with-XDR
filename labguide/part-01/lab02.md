@@ -8,19 +8,17 @@ You start by initializing the Defender for the Endpoint environment. Next, you o
 
 >**Important:**  The lab Virtual Machines are used through different modules. SAVE your virtual machines. If you exit the lab without saving, you will be required to re-run some configurations again.
 
-## Lab objectives
+## Lab objectives (Duration: 60 minutes)
 In this lab, you will perform the following:
-- Task 1: Preparing the Microsoft 365 Defender workspace
+- Task 1: Preparing the Microsoft Defender workspace
 - Task 2: Initialize Microsoft Defender for Endpoint
 - Task 3: Onboard a Device
 - Task 4: Configure Roles
 - Task 5: Configure Device Groups
 
-## Estimated timing: 60 minutes
-
 ## Architecture Diagram
 
-  ![Picture 1](../media/SC200-Lab_Diagrams_Mod2_L1_Ex1.png)
+  ![Picture 1](../media/part1lab02.png)
 
 ### Task 1: Preparing the Microsoft Defender workspace
 
@@ -36,7 +34,7 @@ In this lab, you will perform the following:
 
 In this task, you will perform the initialization of the Microsoft Defender for the Endpoint portal.
 
-1. If you are not already at the Microsoft  Defender portal, start the Microsoft Edge browser.
+1. If you are not already at the Microsoft Defender portal, start the Microsoft Edge browser.
 
 1. In the Edge browser, go to the Microsoft Defender portal at (https://security.microsoft.com).
 
@@ -59,7 +57,7 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
 In this task, you will onboard a device to Microsoft Defender for Endpoint using an onboarding script.
 
-1. If you are not already at the Microsoft  Defender portal in your browser, start the Microsoft Edge browser go to (https://security.microsoft.com) and log in with the **Tenant Email** credentials.
+1. If you are not already at the Microsoft Defender portal in your browser, start the Microsoft Edge browser go to (https://security.microsoft.com) and log in with the **Tenant Email** credentials.
 
 1. Select **Settings** from the left menu bar, then from the Settings page select **Endpoints**.
 
@@ -85,7 +83,7 @@ In this task, you will onboard a device to Microsoft Defender for Endpoint using
 
     ![Picture 1](../media/SC-200-img25.png)
 
-1. Back in the Onboarding page from the Microsoft 365 Defender portal, under the section "2. Run a detection test", copy the detection test script by selecting the **Copy** button.  
+1. Back in the Onboarding page from the Microsoft Defender portal, under the section "2. Run a detection test", copy the detection test script by selecting the **Copy** button.  
 
 1. In the windows search bar of the virtual machine, type **CMD** and choose **Run as Administrator** on the right pane for the Command Prompt app. 
 
@@ -175,7 +173,7 @@ In this task, you will configure device groups that allow for access control and
 
 1. For the User access tab, select **sg-IT** and then select **Add selected groups** button. Make sure it appears under **Azure AD user groups with access to this device group**.
 
-1. Select **submit***
+1. Select **submit**
 
 1. Select **Done**.
 

@@ -3,17 +3,14 @@
 ## Lab scenario
  You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.
 
-## Lab objectives
+## Lab objectives ( Duration: 120 minutes)
 In this lab, you will complete the following tasks:
-- Task 1: Create a Group 
-- Task 2: Apply Microsoft Defender for Office 365 preset security policies
-- Task 3: Preparing the Microsoft 365 Defender workspace
-    
-## Estimated timing: 120 minutes
+- Task 1: Create a Log Analytics Workspace
+- Task 2: Enable Microsoft Defender for Cloud
 
 ## Architecture Diagram
 
-  ![Picture 1](../media/SC200-Lab_M1_L1_Ex1.1.png)
+  ![Picture 1](../media/part1lab01.png)
 
 ### Task 1: Create a Log Analytics Workspace
 
@@ -27,7 +24,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
     
    ![](../media/image9.png)
 
-1. Select Resource Group from the drop down(sentinel-rg).
+1. Select Resource Group from the drop down(Sentinel-rg).
 
 1. For the Name, enter something unique like **uniquenameDefender**.
 
@@ -49,7 +46,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
    ![](../media/image1.png)
 
-1. Click the left menu and click on **Getting started**. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected and then select the **Upgrade** button at the bottom of the page. Wait for the *Trial started* notification to appear, it takes about 2 minutes. **Hint:** You can click the bell button on the top bar to review your Azure portal notifications.
+1. Click the left menu and click on **Getting started**. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected and then select the **Upgrade** button at the bottom of the page. It takes about 2 minutes.
 
     ![](../media/image_60.png)
 
@@ -87,6 +84,5 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 ## Review
 In this lab, you will complete the following tasks:
-- Create a Group 
-- Apply Microsoft Defender for Office 365 preset security policies
-- Preparing the Microsoft 365 Defender workspace
+- Create a Log Analytics Workspace
+- Enable Microsoft Defender for Cloud

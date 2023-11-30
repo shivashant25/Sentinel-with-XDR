@@ -1,18 +1,17 @@
-## Part:1 Lab 09- Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+## Part:1 Lab 09 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 ## Lab scenario
 You are a Security Operations Analyst working at a company that is implementing Microsoft Sentinel. You are responsible for performing log data analysis to search for malicious activity, display visualizations, and perform threat hunting. To query log data, you use the Kusto Query Language (KQL).
 
 >**Important:** This lab involves entering many KQL scripts into Microsoft Sentinel. The scripts were provided in a file at the beginning of this lab. An alternate location to download them is:  https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst/tree/master/Allfiles
 
-## Lab objectives
+## Lab objectives (Duration: 90 minutes)
  In this lab, you will perform the following:
 
 - Task 1: Create a Log Analytics Workspace
 - Task 2: Initialize the Microsoft Sentinel Workspace.
 - Task 3: Connect the Windows security event connector.
 - Task 4: Enable Microsoft Defender for Cloud
-- Run Basic KQL Statements
 - Task 5: Protect an On-Premises Server.
 - Task 6: Create Microsoft Sentinel Training Lab Solution.
 - Task 7: Access the KQL testing area.
@@ -21,11 +20,9 @@ You are a Security Operations Analyst working at a company that is implementing 
 - Task 10: Create visualizations in KQL with the Render Operator
 - Task 11: Build multi-table statements in KQL
 
-## Estimated timing: 90 minutes
-
 ## Architecture Diagram
 
-  ![Picture 1](../media/SC200-Lab_Diagrams_Mod4_L1_Ex1.png)
+  ![Picture 1](../media/part1lab09.png)
 
 ### Task 1: Create a Log Analytics Workspace
 
@@ -60,7 +57,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 ### Task 3: Connect the Windows security event connector.
 
-1. On the search bar type **Microsoft sentinel** and select it
+1. On the search bar type **Microsoft Sentinel** and select it
 
 1. select the created workspace
 
@@ -92,7 +89,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. click the left menu and click on **Getting started**
 
-1. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected, and then select the **Upgrade** button at the bottom of the page. Wait for 2-5 minutes to complete it takes time. 
+1. On the **Getting Started** page, under the **Upgrade** tab, make sure your subscription is selected, and then select the **Upgrade** button at the bottom of the page. Wait for 2-5 minutes to complete it, as it takes time.
 
 1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
 
@@ -170,7 +167,7 @@ In this task, you will create microsoft sentinel training lab solution.
 
 In this task, you will access a Log Analytics environment where you can practice writing KQL statements.
 
-1. Go-to Microsoft sentinel and select your log analytics workspace.
+1. Go-to Microsoft Sentinel and select your log analytics workspace.
 
 1. On the left menu click on **logs** close if any tutorial window pops up click on 'X'.
 
@@ -206,11 +203,15 @@ In this task, you will build basic KQL statements.
 
     ![Picture 1](../media/SC-200-img9.png)
 
+    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**.
+
 1. The following statement demonstrates **search** across tables listed within the **in** clause. In the Query Window enter the following statement and select **Run**: 
 
     ```KQL
     search in (SecurityEvent,SecurityAlert,A*) "err"
     ```
+    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**
+
     >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**
 
 1. Change back the **Time range** to **Last 24 hours** in the Query Window.
@@ -556,7 +557,6 @@ In this lab, you have completed the following:
 - Initialized the Microsoft Sentinel Workspace.
 - Connected the Windows security event connector.
 - Enabled Microsoft Defender for Cloud
-- Ran Basic KQL Statements
 - Protected an On-Premises Server.
 - Able to access the KQL testing area.
 - Ran Basic KQL Statements

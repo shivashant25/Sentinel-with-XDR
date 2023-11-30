@@ -1,20 +1,18 @@
-## Part:2 Lab 01 Conduct attacks
+## Part:2 Lab - 01 Conduct attacks
 
 ## Lab scenario
 
 You are going to simulate the attacks that you will later use to detect and investigate in Microsoft Sentinel.
 
-## Lab objectives
+## Lab objectives (Duration: 30 minutes)
  In this lab, you will perform the following:
 - Task 1: Persistence Attack with Registry Key Add 
 - Task 2: Command and Control Attack with DNS
 - Task 3: Privilege Elevation Attack with User Add
 
-## Estimated timing: 30 minutes
-
 ## Architecture Diagram
 
-  ![Lab overview.](../media/labscenario.png)
+  ![Lab overview.](../media/lab02part1.png)
 
 ### Task 1: Persistence Attack with Registry Key Add 
 
@@ -102,13 +100,13 @@ You are going to simulate the attacks that you will later use to detect and inve
    
     >**Note:** You will see DNS resolve errors. This is expected.
 
->**Important:** Do not close these windows. Let this PowerShell script run in the background. The command needs to generate log entries for some hours. You can proceed to the next task and next exercises while this script runs. The data created by this task will be used in the Threat Hunting lab later. This process will not create substantial amounts of data or processing.
+    >**Important**: Do not close these windows. Let this PowerShell script run in the background. The command needs to generate log entries for some hours. You can proceed to the next task and next exercises while this script runs. The data created by this task will be used in the Threat Hunting lab later. This process will not create substantial amounts of data or processing.
 
 ### Task 3: Privilege Elevation Attack with User Add
 
->**Important:** The next steps are done on a different machine than the one you were previously working on. Look for the Virtual Machine name references.
-
 In this task, you will perform attacks on the host connected with Azure Arc that has the Azure Monitor Agent configured.
+
+>**Important:** The next steps are done on a different machine than the one you were previously working on. Look for the Virtual Machine name references.
 
 1. Go to Hyper-V manager. Connect to WINSERVER virtual machine.
 
