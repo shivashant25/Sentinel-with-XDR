@@ -34,11 +34,9 @@ In this task, you will create a playbook for next task.
 
    ![Lab overview.](../media/image_26.png)
 
-
 1. Select Enable diagnostics logs in Log Analytics and select your workspace.
 
 1. Click on Next:Connections, Review + Create  and Click on Create and continue to designer.
-
 
 ### Task 2: Persistence Attack Detection
 

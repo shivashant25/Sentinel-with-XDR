@@ -17,8 +17,7 @@ In this task, you will explore the Microsoft Sentinel .
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
 
-    ![Picture 1](../media/image_7.png)
-
+   ![Picture 1](../media/image_7.png)
 
 1. Select your Microsoft Sentinel Workspace.
 

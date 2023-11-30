@@ -154,7 +154,6 @@ In this task, you will create microsoft sentinel training lab solution.
 1. In the search bar of the Azure Portal, type Microsoft Sentinal and select Microsoft Sentinel Training Lab Solution. 
     ![Picture 1](../media/image_24.png)
 
-
 1. Click on create, select resource group and workspace.
 
 1. Click on next and give Display name as 'Investigation Insights'.

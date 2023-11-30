@@ -30,7 +30,6 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
    ![Picture 1](../media/Log_Ananytics_Enable_2.png)
 
-
 ### Task 2: Enabling Plan of Defender for resources
 
 In this task, you will enable the plan for resources on which diagnostics you want to be setup.
@@ -45,7 +44,6 @@ In this task, you will enable the plan for resources on which diagnostics you wa
 
    ![Picture 1](../media/enbale_defender_plan_for_servers_1.png)
 
-
 ### Task 3: Ingesting data to Sentinel from Microsoft Defender
 
 1. For Microsoft Defender data to ingest to Sentinel you need to use the connectors provided by the Sentinel.
@@ -55,7 +53,6 @@ In this task, you will enable the plan for resources on which diagnostics you wa
 1. Now you need to click on install both the conenctor of Microsoft Defender for Cloud and Microsoft 365 Defender to get the logs into the Sentinel
 
    ![Picture 1](../media/Sentinel_Install_Defender_Connector_2.png)
-
 
 ## Review
 In this lab, you will complete the following tasks:
