@@ -148,6 +148,3 @@ In this task, you will install Azure Arc and connect a non-Azure Windows virtual
 
 
 **PROCEED TO NEXT EXERCISE**
-
-=======
-**PROCEED TO NEXT EXERCISE**
