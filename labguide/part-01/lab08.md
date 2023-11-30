@@ -5,7 +5,7 @@ Set up log ingestion from Azure Entra ID (Azure Active Directory) into a SIEM (S
 
 ## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:
-- Task 1: Ingesting logs from Azure AD to Sentinel
+- Task 1: Ingesting logs from Azure Entra ID to Sentinel
 
 ## Architecture Diagram
 

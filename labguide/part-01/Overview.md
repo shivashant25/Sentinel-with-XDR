@@ -1,4 +1,4 @@
-# Overview of sentinel
+# Overview of Sentinel
 
 ## Security Information and Event Management with Microsoft Sentinel
 
@@ -37,7 +37,7 @@ The lab scenarios are given as reference material to assist you in getting start
 - Lab 05 - Use Repositories in Microsoft Sentinel
 - Lab 06 - Ingest Logs from Microsoft Defender for Cloud
 - Lab 07 - Ingest Logs from Microsoft Defender for Endpoint
-- Lab 08 - Ingest Logs from Azure AD
+- Lab 08 - Ingest Logs from Entra ID
 - Lab 09 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 ### Part - 02: Threat Protection using XDR

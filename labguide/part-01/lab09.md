@@ -57,7 +57,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 ### Task 3: Connect the Windows security event connector.
 
-1. On the search bar type **Microsoft sentinel** and select it
+1. On the search bar type **Microsoft Sentinel** and select it
 
 1. select the created workspace
 
@@ -149,7 +149,7 @@ In this task, you will manually install the required agent on the Windows Server
 
 ### Task 6: Create Microsoft Sentinel Training Lab Solution
 
-In this task, you will create microsoft sentinel training lab solution.
+In this task, you will create Microsoft Sentinel training lab solution.
     
 1. In the search bar of the Azure Portal, type Microsoft Sentinal and select Microsoft Sentinel Training Lab Solution. 
 
@@ -165,7 +165,7 @@ In this task, you will create microsoft sentinel training lab solution.
 
 In this task, you will access a Log Analytics environment where you can practice writing KQL statements.
 
-1. Go-to Microsoft sentinel and select your log analytics workspace.
+1. Go-to Microsoft Sentinel and select your log analytics workspace.
 
 1. On the left menu click on **logs** close if any tutorial window pops up
 
