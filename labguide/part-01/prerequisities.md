@@ -1,4 +1,4 @@
-# Part 02: Threat Protection using XDR
+## Part 02: Threat Protection using XDR
 
 ### Estimated timing: 40 minutes
 
