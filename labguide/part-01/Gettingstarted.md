@@ -14,4 +14,4 @@
 
 1. Click "Next" from the bottom right corner to embark on your Lab journey!
  
-   ![Start Your Azure Journey](../media/intro4.png)
+   ![Start Your Azure Journey](../media/intro(4).png)
