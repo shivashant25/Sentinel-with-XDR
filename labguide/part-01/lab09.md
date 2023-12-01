@@ -1,4 +1,4 @@
-## Part:1 Lab 09 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+## Part:1 Lab 13 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 ## Lab scenario
 You are a Security Operations Analyst working at a company that is implementing Microsoft Sentinel. You are responsible for performing log data analysis to search for malicious activity, display visualizations, and perform threat hunting. To query log data, you use the Kusto Query Language (KQL).
