@@ -34,4 +34,4 @@ In this task, you will explore the Microsoft Sentinel .
    ![Picture 1](../media/Sentinel_course_incidents_3.png)
 
 ## Review
-In this lab we have completed Ingesting logs from Microsoft Entra ID to Sentinel.
+In this lab we have completed Ingesting logs from Microsoft Purview to Sentinel.
