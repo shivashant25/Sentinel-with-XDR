@@ -21,7 +21,7 @@ In this task, you will explore the Microsoft Sentinel .
 
 2. Select your Microsoft Sentinel Workspace.
 
-3. Select the **Data Connectors**.
+3. Select the **Data Connectors** under **Configration** and select **Go to content hub**.
 
     ![Picture 1](../media/image_34.png)   
 
