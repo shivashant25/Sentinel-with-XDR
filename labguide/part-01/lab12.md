@@ -1,4 +1,4 @@
-## Part:1 Lab 09 - Ingest Logs from Microsoft Azure Network security Groups
+## Part:1 Lab 10 - Ingest Logs from Microsoft Azure Network security Groups
 
 ## Lab scenario
 Set up log ingestion from Microsoft Entra ID (Azure Active Directory) into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
