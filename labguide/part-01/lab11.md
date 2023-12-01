@@ -23,9 +23,9 @@ In this task, you will explore the Microsoft Sentinel .
 
 3. Select the **Data Connectors**.
 
-4. Search for and select the **Azure Active Directory** (Microsoft Entra ID) connector. Select the AD connector.
+4. Search for and select the **Microsoft Purview** (Microsoft Entra ID) connector. Select the AD connector.
 
-   ![Picture 1](../media/Sentinel_Azure_ad_Connector_install.png)
+   ![Picture 1](../media/image_30.png)
 
 5. Click on **Install**.
 
