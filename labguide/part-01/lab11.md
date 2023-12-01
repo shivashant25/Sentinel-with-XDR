@@ -23,7 +23,7 @@ In this task, you will explore the Microsoft Sentinel .
 
 3. Select the **Data Connectors**.
 
-4. Search for and select the **Microsoft Purview** (Microsoft Entra ID) connector. Select the AD connector.
+4. Search for and select the **Microsoft Purview** (Microsoft Entra ID) connector. Select the Microsoft Purview.
 
    ![Picture 1](../media/image_30.png)
 
