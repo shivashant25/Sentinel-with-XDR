@@ -28,7 +28,7 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
    ![Picture 1](../media/Log_Analytics_Enable_1.png)
 
-   ![Picture 1](../media/Log_Ananytics_Enable_2.png)
+   ![Picture 1](../media/Log_Ananytics_Enable_2 (1).png)
 
 ### Task 2: Enabling Plan of Defender for resources
 
