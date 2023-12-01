@@ -100,7 +100,7 @@ In this task, you will create an indicator in Microsoft Sentinel.
     | project DomainName
     ```
 
-   ![Picture 1](../Media/SC-200-img50.png)
+   ![Picture 1](../media/lab_10.png)
 
 
 ## Review
