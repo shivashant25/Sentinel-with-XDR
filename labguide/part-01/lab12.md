@@ -25,7 +25,7 @@ In this task, you will explore the Microsoft Sentinel .
 
 4. Search for and select the **Azure Network Security Groups** connector. Select the AD connector.
 
-   ![Picture 1](../media/image_31.png)
+   ![Picture 1](../media/image_33.png)
 
 5. Click on **Install**.
 
