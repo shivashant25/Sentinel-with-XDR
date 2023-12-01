@@ -1,11 +1,11 @@
 ## Part:1 Lab 10 - Ingest Logs from Azure Network security Groups
 
 ## Lab scenario
-Set up log ingestion from Microsoft Entra ID (Azure Active Directory) into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
+Set up log ingestion from Azure Network security Groups into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
 
 ## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:
-- Task 1: Ingesting logs from Microsoft Entra ID to Sentinel
+- Task 1: Ingesting logs from Azure Network security Groups to Sentinel
 
 ## Architecture Diagram
 
@@ -23,7 +23,7 @@ In this task, you will explore the Microsoft Sentinel .
 
 3. Select the **Data Connectors**.
 
-4. Search for and select the **Azure Network Security Groups** (Microsoft Entra ID) connector. Select the AD connector.
+4. Search for and select the **Azure Network Security Groups** connector. Select the AD connector.
 
    ![Picture 1](../media/image_31.png)
 
@@ -34,4 +34,4 @@ In this task, you will explore the Microsoft Sentinel .
    ![Picture 1](../media/Sentinel_course_incidents_3.png)
 
 ## Review
-In this lab we have completed Ingesting logs from Microsoft Entra ID to Sentinel.
+In this lab we have completed Ingesting logs from Azure Network security Groups to Sentinel.
