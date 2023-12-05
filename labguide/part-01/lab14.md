@@ -24,14 +24,12 @@ In this lab, you will complete the following task:
    
    ![Picture 1](../media/image_36.png)
 
-1. In the Basics tab, select the Subscription, Resource Group and Workspac, provide the details for your existing workspace. *Optionally*, review the different tabs (Workbooks, Analytics, Hunting Queries, Watchlists, Playbooks) in the solution.
+1. In the Basics tab, select the Subscription, Resource Group and Workspac, provide the details for your existing workspace. *Optionally*, review the different tabs (Workbooks, Analytics, Hunting Queries, Watchlists, Playbooks) in the solution. click on **Review + create**.
 
    ![Picture 1](../media/image_38.png)
 
-1. Once validation is ok, click **Create**. Note that the deployment process takes **about 15 minutes**, in part because we want to make sure all the ingested data is ready for you to use once finished.
-
-On the home page you should see some ingested data and several recent incidents. Don't worry if you don't see the incidents initially as in the screenshot below, they might take a few minutes to be raised.
-
+    >**Note:** That the deployment process takes **about 15 minutes**, in part because we want to make sure all the ingested data is ready for you to use once finished.
+   
    ![Picture 1](../media/image_37.png)  
 
 
