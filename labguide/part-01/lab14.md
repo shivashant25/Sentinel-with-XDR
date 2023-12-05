@@ -1,4 +1,4 @@
-## Part:1 Lab 03 - Create a Microsoft Sentinel
+## Part:1 Lab 14 - Using Sentinel Training Lab 
 
 ## Lab scenario
 In this lab you will walk through the process of creating an  Microsoft Sentinel instance.  You will also set up the permissions to ensure access to the resources that will get deployed to support  Microsoft Sentinel.  Once this basic setup is done you will walk through the steps for connecting Microsoft Sentinel to your data sources, set up a workbook, and do a brief walk-through of some of key capabilities available in Microsoft Sentinel. 
@@ -7,13 +7,13 @@ In this lab you will walk through the process of creating an  Microsoft Sentinel
 
 In this lab, you will complete the following task:
 
-+ Task 1: Create a Microsoft Sentinel instance
++ Task 1: Using Sentinel Training Lab 
 
 ## Architecture diagram
 
 ![](../media/part1lab03.png)
 
-## Task 1:  Create a Microsoft Sentinel instance
+## Task 1:  Using Sentinel Training Lab 
 
 1. In the Azure portal, in the **Search Bar** search for **Microsoft Sentinel** then select **Microsoft Sentinel** from the search results. 
 
@@ -53,4 +53,4 @@ In this lab, you will complete the following task:
 
 ## Review
 In this lab, you will complete the following tasks:
-+ Create a Microsoft Sentinel instance
++ Using Sentinel Training Lab 
