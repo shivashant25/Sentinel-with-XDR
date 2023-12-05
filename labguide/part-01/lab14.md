@@ -3,7 +3,7 @@
 ## Lab scenario
 In this lab you will walk through the process of creating an  Microsoft Sentinel Training Lab Solution.
 
-## Lab objectives (Duration: 60 minutes)
+## Lab objectives (Duration: 30 minutes)
 
 In this lab, you will complete the following task:
 
