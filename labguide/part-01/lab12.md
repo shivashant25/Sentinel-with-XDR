@@ -17,9 +17,13 @@ In this task, you will change the retention period for the SecurityEvent table.
 
 1. Select **Workspace settings**.
 
+   ![](../media/image_39.png)   
+
 1. In Log Analytics workspace, select the **Tables (preview)** option in the *Settings* area.
 
 1. Search and select the table **SecurityEvent**, and then select the ellipsis button (...).
+
+   ![](../media/image_40.png)     
 
 1. Select **Manage Table**.
 
