@@ -1,4 +1,4 @@
-## Part:1 Lab 09 - Ingest Logs from Microsoft Purview
+## Part:1 Lab 07 - Ingest Logs from Microsoft Purview
 
 ## Lab scenario
 Set up log ingestion from Microsoft Purview into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
