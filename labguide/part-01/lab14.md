@@ -20,7 +20,9 @@ In this lab, you will complete the following task:
    
    ![Picture 1](../media/image_35.png)
 
-1. From Add Microsoft Sentinel to a workspace, select **+ Create a new workspace**.
+1. It navigate to **Microsoft Sentinel Training Lab Solution** page, Click to **Create**.
+   
+   ![Picture 1](../media/image_36.png)
 
 1. From the basics tab of the Create Log Analytics workspace, enter the following
 
