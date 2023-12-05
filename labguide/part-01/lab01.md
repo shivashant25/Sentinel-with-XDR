@@ -1,4 +1,4 @@
-## Part:1 Lab 01 - Enable Microsoft Defender for Cloud
+## Part:1 Lab 01 - Setup Sentinel Environment
 
 ## Lab scenario
  You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.
@@ -6,7 +6,7 @@
 ## Lab objectives ( Duration: 30 minutes)
 In this lab, you will complete the following tasks:
 - Task 1: Create a Log Analytics Workspace
-- Task 2: Enable Microsoft Defender for Cloud
+- Task 2: Create Sentinel Workspace
 
 ## Architecture Diagram
 
@@ -38,7 +38,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
    ![](../media/image11.png)
 
-### Task 2: Enable Microsoft Defender for Cloud
+### Task 2: Create Sentinel Workspace
 
 In this task, you will enable and configure Microsoft Defender for Cloud.
 
@@ -85,4 +85,4 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 ## Review
 In this lab, you will complete the following tasks:
 - Create a Log Analytics Workspace
-- Enable Microsoft Defender for Cloud
+- Create Sentinel Workspace
