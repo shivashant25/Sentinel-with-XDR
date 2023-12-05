@@ -24,33 +24,17 @@ In this lab, you will complete the following task:
    
    ![Picture 1](../media/image_36.png)
 
-1. From the basics tab of the Create Log Analytics workspace, enter the following
+1. In the Basics tab, select the Subscription, Resource Group and Workspac, provide the details for your existing workspace. *Optionally*, review the different tabs (Workbooks, Analytics, Hunting Queries, Watchlists, Playbooks) in the solution.
 
-    | Setting | Action |
-    | -- | -- |
-    | Subscription |  **Select the given subscription (1)**  |
-    | Resource group | select ResourceGroup |
-    | Name | LogAnalytics-workspace-<inject key="DeploymentID" enableCopy="false"/>** |
-    | Region | leave this default |
-    |||
+   ![Picture 1](../media/image_38.png)
 
-    ![Picture 1](../media/image1-lab7.png)
+1. Once validation is ok, click **Create**. Note that the deployment process takes **about 15 minutes**, in part because we want to make sure all the ingested data is ready for you to use once finished.
 
-1. click **Review + Create**.   
+On the home page you should see some ingested data and several recent incidents. Don't worry if you don't see the incidents initially as in the screenshot below, they might take a few minutes to be raised.
 
-1. Verify the information you entered then select **Create**.
+   ![Picture 1](../media/image_37.png)  
 
-1. If you don’t see the new workspace listed, select **Refresh**, then select newly created workspace **LogAnalytics-workspace-<inject key="DeploymentID" enableCopy="false"/> (1)** and click on **Add (2)**.
 
-   ![Picture 1](../media/image2-lab(7).png)
-
-1. Once the new workspace is added, the Microsoft Sentinel | News & guides page will display., including that the Microsoft Sentinel free trial is activated. Select **OK**  Note the three steps listed on the Get started page.
-
-   ![Picture 1](../media/image_8.png)
-   
-   ![Picture 1](../media/image_9.png)
-
-1. Keep this page open, as you will use it in the next task.
 
 ## Review
 In this lab, you will complete the following tasks:
