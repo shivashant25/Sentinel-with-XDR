@@ -1,4 +1,16 @@
-### Task 2: Create Sentinel Workspace
+## Part:1 Lab 05 - Deploy Microsoft Defender for Cloud  
+
+## Lab scenario
+Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and analyze security event logs from Microsoft Defender for Endpoint to enhance threat detection and response within the organization.
+
+## Lab objectives (Duration: 120 minutes)
+
+In this lab, you will complete the following tasks:
+- Task 1: Onboard Servers to Defender for Cloud 
+
+## Architecture Diagram
+
+### Task 1: Onboard Servers to Defender for Cloud 
 
 In this task, you will enable and configure Microsoft Defender for Cloud.
 
@@ -44,5 +56,4 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 ## Review
 In this lab, you will complete the following tasks:
-- Create a Log Analytics Workspace
-- Create Sentinel Workspace
+- Onboard Server to Defender for Cloud.
