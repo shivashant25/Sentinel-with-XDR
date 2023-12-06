@@ -62,7 +62,7 @@ In this task, you will create an Azure DevOps repository.
 
      ![Picture 1](../media/initialize.png)
 
-1. The page should show the Files for the Repo.  the only file is README.me.
+1. The page should show the Files for the Repo.  the only file is README.md.
 
 1. On the Files (right side of the page) blade, the toolbar includes options *Set up build*, *Clone*, ... Select the colon icon **(:)** to show more options.
 
