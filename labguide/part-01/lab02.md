@@ -10,6 +10,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+![](../media/Lab-2%20arch1.JPG)
+
 ### Task 1: Onboard Server to Defender for Cloud 
 
 In this task, you will enable and configure Microsoft Defender for Cloud.

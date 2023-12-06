@@ -7,8 +7,6 @@ You are a Security Operations Analyst working at a company that is implementing 
 In this lab, you will complete the following tasks:
 - Task 1: Configure Log Retention
 
-## Architecture Diagram  
-
 ### Task 1: Configure Log Retention
 
 In this task, you will change the retention period for the SecurityEvent table.

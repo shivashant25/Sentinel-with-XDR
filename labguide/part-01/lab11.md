@@ -9,7 +9,8 @@ You're a Security Operations Analyst working at a company that is implementing M
 - Task 2: Create a Threat Indicator.
 
 ## Architecture Diagram  
-  ![Picture 1](../media/lab10_AD.png)
+
+   ![](../media/Lab-11%20arch.png)
 
 ### Task 1: Create a Watchlist
 

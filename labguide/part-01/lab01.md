@@ -10,7 +10,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-  ![Picture 1](../media/part1lab01.png)
+![](../media/Lab-1%20arch1.JPG)
 
 ### Task 1: Create a Log Analytics Workspace
 

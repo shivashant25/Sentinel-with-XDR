@@ -9,7 +9,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-   ![](../media/lab08.png)
+   ![](../media/Lab-10%20arch.JPG)
 
 ### Task 1: Ingesting logs from Microsoft Azure Activity to Sentinel 
 

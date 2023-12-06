@@ -9,9 +9,6 @@ In this lab, you will complete the following task:
 
 + Task 1: Using Sentinel Training Lab 
 
-## Architecture diagram
-
-
 ## Task 1:  Using Sentinel Training Lab 
 
 1. In Microsoft Sentinel, select the **Content hub** option in the *Content management* area.
