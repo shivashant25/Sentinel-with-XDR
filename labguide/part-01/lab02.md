@@ -6,7 +6,7 @@ Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and ana
 ## Lab objectives (Duration: 120 minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1: Deploy Microsoft Defender for Cloud 
+- Task 1: Onboard Server Defender for Cloud 
 
 ## Architecture Diagram
 
