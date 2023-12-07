@@ -61,6 +61,8 @@ In this task, you will onboard a device to Microsoft Defender for Endpoint using
 
 1. Select **Settings** from the left menu bar, then from the Settings page select **Endpoints**.
 
+    ![Picture 1](../media/image_48.png)
+
 1. Select **Onboarding** in the Device Management section.
 
     >**Note:** You can also perform device onboarding from the **Assets** section of the left menu bar. Expand Assets and select Devices. On the Device Inventory page, with Computers & Mobile selected, scroll down to **Onboard devices.** This takes you to the **Settings > Endpoints** page.
