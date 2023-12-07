@@ -1,7 +1,7 @@
 ## Part:1 Lab 01 - Setup Sentinel Environment
 
-## Lab scenario
- You are a Security Operations Analyst working at a company that is implementing Microsoft 365 Defender. You start by assigning preset security policies in EOP and Microsoft Defender for Office 365.
+## Overview
+ You are a Security Operations Analyst working at a company . You will start creating a Log Analytics workspace which is a unique environment for log data from Azure Monitor and other Azure services, such as Microsoft Sentinel and Microsoft Defender for Cloud. You will also create Microsoft Sentinel instance to
 
 ## Lab objectives ( Duration: 30 minutes)
 In this lab, you will complete the following tasks:
@@ -39,6 +39,8 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
    ![](../media/image11.png)
 
 ### Task 2: Create Sentinel Workspace
+
+In this task, you will create Microsoft Sentinel workspace where you will be monitoring and analyzing security events in upcoming labs.
 
 1. In the Azure portal, in the **Search Bar** search for **Microsoft Sentinel** then select **Microsoft Sentinel** from the search results. 
 
