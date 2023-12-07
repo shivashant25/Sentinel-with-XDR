@@ -38,6 +38,8 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. In your vm search for the **Services**, will find Microsoft Monitoring Agent is Running.
 
+   ![Picture 1](../media/image_46.png)   
+
 ### Task 3: Ingesting data to Sentinel from Microsoft Defender 
 
 1. For Microsoft Defender data to ingest to Sentinel you need to use the connectors provided by the Sentinel.
