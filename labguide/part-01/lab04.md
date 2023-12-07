@@ -18,13 +18,9 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. In the Search bar of the Azure portal, type *Defender*, then select **Microsoft Defender for Cloud**.
 
-1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
+1. From Defender for Cloud's menu, select Environment settings and select the subscription.
 
-   ![](../media/image_1.png)
-
-1. Select the subscription. 
-
-    ![](../media/image(4).png)
+     ![Picture 1](../media/image_50.png)
 
 1. Click on *Defender Plans* on left blade. Then you need to click on *Settings&Monitoring* inbetween the page at top left.
 
