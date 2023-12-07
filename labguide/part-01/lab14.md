@@ -8,54 +8,21 @@ You are a Security Operations Analyst working at a company that is implementing 
 ## Lab objectives (Duration: 90 minutes)
  In this lab, you will perform the following:
 
-- Task 1: Create a Log Analytics Workspace
-- Task 2: Initialize the Microsoft Sentinel Workspace.
-- Task 3: Connect the Windows security event connector.
-- Task 4: Enable Microsoft Defender for Cloud
-- Task 5: Protect an On-Premises Server.
-- Task 6: Create Microsoft Sentinel Training Lab Solution.
-- Task 7: Access the KQL testing area.
-- Task 8: Run Basic KQL Statements
-- Task 9: Analyze Results in KQL with the Summarize Operator
-- Task 10: Create visualizations in KQL with the Render Operator
-- Task 11: Build multi-table statements in KQL
+- Task 1: Connect the Windows security event connector
+- Task 2: Enable Microsoft Defender for Cloud
+- Task 3: Protect an On-Premises Server
+- Task 4: Access the KQL testing area
+- Task 5: Run Basic KQL Statements
+- Task 6: Analyze Results in KQL with the Summarize Operator
+- Task 7: Create visualizations in KQL with the Render Operator
+- Task 8: Build multi-table statements in KQL
 
 ## Architecture Diagram
 
   ![Picture 1](../media/part1lab09.png)
 
-### Task 1: Create a Log Analytics Workspace
 
-In this task, you will create a Log Analytics workspace for use with Microsoft Defender for Cloud.
-
-1. In the Edge browser, open the Azure portal at (https://portal.azure.com).
-
-1. In the **Sign in** dialog box, copy and paste Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
-
-1. In the **Enter password** dialog box, copy and paste Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
-
-1. In the Search bar of the Azure portal, type **Log Analytics**, then select **Log Analytics workspaces**.
-
-1. Select **+Create** from the command bar.
-
-1. Select "create new Resource Group" give the name **RG-Defender**.
-
-1. For the Name, enter something unique like **uniquenameDefender**.
-1. Select the default Region 
-
-1. Select **Review + Create**.
-
-1. Once the workspace validation has passed, select **Create**. Wait for the new workspace to be provisioned, this may take a few minutes.
-    
-### Task 2: Initialize the Microsoft Sentinel Workspace.
-
-1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
-
-1. Create, In Add Microsoft Sentinel to a workspace page.
-
-1. Select your existing workspace that was created in the previous lab, then select **Add**. This could take a few minutes.
-
-### Task 3: Connect the Windows security event connector.
+### Task 1: Connect the Windows security event connector.
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
 
@@ -83,7 +50,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 1. Click on apply changes now if you refresh the data connector page you can see the status connected for **Security events Via Legacy agent**
 
-### Task 4: Enable Microsoft Defender for Cloud
+### Task 2: Enable Microsoft Defender for Cloud
 
 In this task, you will enable and configure Microsoft Defender for Cloud.
 
@@ -115,7 +82,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. Close the Defender plans page by selecting the 'X' on the upper right of the page to go back to the **Environment settings**
 
-### Task 5: Protect an On-Premises Server.
+### Task 3: Protect an On-Premises Server.
 
 In this task, you will manually install the required agent on the Windows Server.
 
@@ -149,22 +116,7 @@ In this task, you will manually install the required agent on the Windows Server
 
     ![Picture 1](../media/image_29.png)
 
-### Task 6: Create Microsoft Sentinel Training Lab Solution
-
-In this task, you will create microsoft sentinel training lab solution.
-    
-1. In the search bar of the Azure Portal, type Microsoft Sentinal and select Microsoft Sentinel Training Lab Solution. 
-    ![Picture 1](../media/image_24.png)
-
-1. Click on create, select resource group and workspace.
-
-1. Click on next and give Display name as 'Investigation Insights'.
-
-1. Click on Review + create and click on create.
-
-   >**Note**: It will take 3-5 minutes.
-
-### Task 7: Access the KQL testing area.
+### Task 4: Access the KQL testing area.
 
 In this task, you will access a Log Analytics environment where you can practice writing KQL statements.
 
@@ -184,7 +136,7 @@ In this task, you will access a Log Analytics environment where you can practice
 
     ![Picture 1](../media/SC-200-img-7.png)
 
-### Task 8: Run Basic KQL Statements
+### Task 5: Run Basic KQL Statements
 
 In this task, you will build basic KQL statements.
 
@@ -320,7 +272,7 @@ In this task, you will build basic KQL statements.
     | project-away ProcessName
     ```
 
-### Task 9: Analyze Results in KQL with the Summarize Operator
+### Task 6: Analyze Results in KQL with the Summarize Operator
 
 In this task, you will build KQL statements to aggregate data. **Summarize** groups the rows according to the **by** group columns, and calculates aggregations over each group.
 
@@ -386,7 +338,7 @@ In this task, you will build KQL statements to aggregate data. **Summarize** gro
     | summarize make_set(Account) by Computer
     ```
 
-### Task 10: Create visualizations in KQL with the Render Operator
+### Task 7: Create visualizations in KQL with the Render Operator
 
 In this task, you will use generate visualizations with KQL statements.
 
@@ -408,7 +360,7 @@ In this task, you will use generate visualizations with KQL statements.
     | render timechart
     ```
 
-### Task 11: Build multi-table statements in KQL
+### Task 8: Build multi-table statements in KQL
 
 In this task, you will build multi-table KQL statements.
 
@@ -465,12 +417,10 @@ In this task, you will build multi-table KQL statements.
    
 ## Review
 In this lab, you have completed the following:
-- Created a Log Analytics Workspace
-- Initialized the Microsoft Sentinel Workspace.
-- Connected the Windows security event connector.
+- Connected the Windows security event connector
 - Enabled Microsoft Defender for Cloud
-- Protected an On-Premises Server.
-- Able to access the KQL testing area.
+- Protected an On-Premises Server
+- Able to access the KQL testing area
 - Ran Basic KQL Statements
 - Analyzed Results in KQL with the Summarize Operator
 - Created visualizations in KQL with the Render Operator
