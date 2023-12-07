@@ -18,11 +18,19 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. In the Search bar of the Azure portal, type *Defender*, then select **Microsoft Defender for Cloud**.
 
-1. From Defender for Cloud's menu, open **Environment settings**.
+1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
 
-1. Select **Subscription** and click on *Defender Plans* on left blade. Then you need to click on *Settings&Monitoring* inbetween the page at top left.
+   ![](../media/image_1.png)
 
-   ![Picture 1](../media/Subscription_Select.png)
+1. Select the subscription. 
+
+1. Select the subscription. 
+
+    ![](../media/image(4).png)
+
+1. Click on *Defender Plans* on left blade. Then you need to click on *Settings&Monitoring* inbetween the page at top left.
+
+    ![](../media/image_49.png)
 
 1. Enable the **Log Analytics agent** which will Collects security-related configurations and event logs from the machine and stores the data in your Log Analytics workspace for analysis.
 
