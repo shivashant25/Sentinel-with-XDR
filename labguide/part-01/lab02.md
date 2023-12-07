@@ -30,9 +30,9 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
 1. Review the Azure resources that are now protected with the Defender for Cloud plans.
 
-1. Select the **Settings & monitoring** tab from the Settings area (next to Save).
+1. Click on *Defender Plans* on left blade. Then you need to click on *Settings&Monitoring* inbetween the page at top left.
 
-   ![](../media/image_5.png)
+    ![](../media/image_49.png)
 
 1. Review the monitoring extensions. Confirm that **Log Analytics agent/Azure Monitor agent** is **Off**. Close the Settings & monitoring page by selecting the 'X' on the upper right of the page.
    > **Note:** If **Log Analytics agent/Azure 
