@@ -57,13 +57,15 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
 ### Task 3: Connect the Windows security event connector.
 
-1. On the search bar type **Microsoft Sentinel** and select it
+1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
 
-1. select the created workspace
+     ![Picture 1](../media/image_7.png)  
 
-1. On the left menu search for data connectors and click on it
+1. Select your Microsoft Sentinel Workspace.
 
-1. You can see there are no connectors installed yet so go to the content hub on the same page
+1. Select the **Data Connectors** under **Configuration** and select **Go to content hub**.
+
+    ![Picture 1](../media/image_34.png)
 
 1. On the content hub page search for **Windows security event** and select, Install
 
