@@ -24,13 +24,9 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
     ![](../media/image_60.png)
 
-1. In the left menu for Microsoft Defender for Cloud, under Management, select **Environment settings**.
+1. From Defender for Cloud's menu, select Environment settings and select the subscription.
 
-   ![](../media/image_1.png)
-   
-1. Select the subscription. 
-
-    ![](../media/image(4).png)
+     ![Picture 1](../media/image_50.png)
 
 1. Review the Azure resources that are now protected with the Defender for Cloud plans.
 
