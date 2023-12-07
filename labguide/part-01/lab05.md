@@ -44,7 +44,7 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. For Microsoft Defender data to ingest to Sentinel you need to use the connectors provided by the Sentinel.
 
-   ![Picture 1](../media/Sentinel_course_6_dataconnectors_1.png)
+   ![Picture 1](../media/image_44.png)
 
 1. Now you need to click on install the both Conenctor of Microsoft Defender for Cloud and Microsoft 365 Defender to get the logs into the Sentinel
 
