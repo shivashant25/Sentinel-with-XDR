@@ -28,24 +28,24 @@ The lab scenarios are given as reference material to assist you in getting start
 
 ## Contents:
 
-### Part - 01: Microsoft Sentinel
+Microsoft Sentinel
 
-- Lab 01 - Enable Microsoft Defender for Cloud
-- Lab 02 - Deploy Microsoft Defender for Endpoint
-- Lab 03 - Create a Microsoft Sentinel
-- Lab 04 - Create workbooks
-- Lab 05 - Use Repositories in Microsoft Sentinel
-- Lab 06 - Ingest Logs from Microsoft Defender for Cloud
-- Lab 07 - Ingest Logs from Microsoft Defender for Endpoint
-- Lab 08 - Ingest Logs from Entra ID
-- Lab 09 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
-
-### Part - 02: Threat Protection using XDR
-
-- Prerequisites
-- Lab 01 - Conduct attacks
-- Lab 02 - Create Detections
-- Lab 03 - Investigate an Incident
+- Lab 01 - Setup Sentinel Environment
+- Lab 02 - Onboard Server Defender for Cloud
+- Lab 03 - Deploy Microsoft Defender for Endpoint
+- Lab 04 - Ingest Logs from Microsoft Defender for Cloud
+- Lab 05 - Ingest Logs from Microsoft Defender for Endpoint
+- Lab 06 - Ingest Logs from Microsoft Entra ID
+- Lab 07 - Ingest Logs from Microsoft Purview
+- Lab 08 - Ingest Logs from Azure Network security Groups
+- Lab 09 - Ingest Logs from Microsoft 365
+- Lab 10 - Ingest Logs from Microsoft Azure Activity
+- Lab 11 - Create a Watchlist, Threat Indicator
+- Lab 12 - Configure Log Retention
+- Lab 13 - Using Sentinel Training Lab
+- Lab 14 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+- Lab 15 - Use Repositories in Microsoft Sentinel
+- Lab 16 - Create workbooks
 
 ### Azure services and related products
 
