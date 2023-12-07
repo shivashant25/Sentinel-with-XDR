@@ -28,7 +28,7 @@ In this task, you will enable and configure Microsoft Defender for Cloud.
 
    ![](../media/image_1.png)
    
-1. Select the subscription (or equivalent name in your Language). 
+1. Select the subscription. 
 
     ![](../media/image(4).png)
 
