@@ -14,7 +14,7 @@ In this lab, you will complete the following tasks:
 
    ![](../media/lab07.png)
 
-### Task 1: Explore defender for ingest data
+### Task 1: Explore defender for ingest data 
 
 In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
@@ -42,7 +42,7 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
    ![Picture 1](../media/image_46.png)   
 
-### Task 3: Ingesting data to Sentinel from Microsoft Defender 
+### Task 3: Ingesting data to Sentinel from Microsoft Defender for Endpoint 
 
 1. For Microsoft Defender data to ingest to Sentinel you need to use the connectors provided by the Sentinel.
 
