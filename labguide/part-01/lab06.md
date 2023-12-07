@@ -25,7 +25,7 @@ In this task, you will explore the Microsoft Sentinel .
 
      ![Picture 1](../media/image_44.png)
 
-5. Search for and select the **Azure Active Directory** (Microsoft Entra ID) connector. Select the AD connector.
+5. Search for and select the **Microsoft Entra ID** connector. Select the AD connector.
 
    ![Picture 1](../media/image_45.png)
 
