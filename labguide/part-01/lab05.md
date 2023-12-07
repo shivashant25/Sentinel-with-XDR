@@ -22,7 +22,7 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. From Defender for Cloud's menu, select Environment settings and select the subscription that you want to receive Defender for Endpoint.
 
-     ![Picture 1](../media/Subscription_Select.png)
+     ![Picture 1](../media/image_50.png)
 
 1. In the Monitoring coverage column of the Defender for Server plan, select Settings.
 
