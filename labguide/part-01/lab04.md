@@ -24,8 +24,6 @@ In this task, you will explore ingesting logs from Microsoft Defender for Cloud.
 
 1. Select the subscription. 
 
-1. Select the subscription. 
-
     ![](../media/image(4).png)
 
 1. Click on *Defender Plans* on left blade. Then you need to click on *Settings&Monitoring* inbetween the page at top left.
