@@ -50,7 +50,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. On the *Get started with Azure DevOps* page, select **Create new organization** and then select **Continue**.
 
-1. On the *Almost done...* page, enter a name for your DevOps organization that you would not want to use in the future, like for example, your tenant prefix. **Hint:** It can be found in the Resources tab of your lab (WWLx...).
+1. On the *Almost done...* page, enter a name for your DevOps organization that you would not want to use in the future, like for example, your tenant prefix. **Hint:** It can be found in the Resources tab of your lab.
 
 1. *Enter characters you see*, then **Continue**.
 
@@ -98,7 +98,7 @@ In this task, you will create an Azure DevOps repository.
 
 1. Select **Authorize**. Scroll down the permissions request and then select **Accept**.
 
-1. Select the Organization you created earlier (e.g., WWLx...).
+1. Select the Organization you created earlier.
 
 1. Select the Project you created earlier, *My Sentinel Content*.
 
