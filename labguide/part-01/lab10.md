@@ -1,4 +1,4 @@
-## Part:1 Lab 10 - Ingest Logs from Microsoft Azure Activity
+## Lab 10 - Ingest Logs from Microsoft Azure Activity
 
 ## Lab scenario
 Set up log ingestion from Microsoft Azure Activity into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
