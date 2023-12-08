@@ -1,7 +1,8 @@
 ## Lab 08 - Ingest Logs from Azure Network security Groups
 
 ## Lab scenario
-Set up log ingestion from Azure Network security Groups into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
+
+A network security group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources. In this lab, you configure the integration of Network security group logs with a Security Information and Event Management (SIEM) system to enable thorough security monitoring and analysis.
 
 ## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:

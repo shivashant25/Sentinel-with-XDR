@@ -1,7 +1,8 @@
 ## Lab 13 - Using Sentinel Training Lab 
 
 ## Lab scenario
-In this lab you will walk through the process of creating an  Microsoft Sentinel Training Lab Solution.
+
+In this lab you will walk through the process of creating an  Microsoft Sentinel Training Lab Solution. Microsoft Sentinel Training Lab can be used to get ramped up with Microsoft Sentinel and provide hands-on practical experience for product features, capabilities, and scenarios.
 
 ## Lab objectives (Duration: 30 minutes)
 

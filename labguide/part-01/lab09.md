@@ -1,7 +1,8 @@
 ## Lab 09 - Ingest Logs from Microsoft 365
 
 ## Lab scenario
-Set up log ingestion from Microsoft 365 into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
+
+In this lab, you will set up log ingestion from Microsoft 365 into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
 
 ## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:

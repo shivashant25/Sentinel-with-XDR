@@ -1,7 +1,7 @@
 ## Lab 06 - Ingest Logs from Microsoft Entra ID
 
 ## Lab scenario
-Set up log ingestion from Microsoft Entra ID (Azure Active Directory) into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
+Microsoft Entra ID is an integrated cloud identity and access solution. In this lab, you will enable the ingestion of logs from Microsoft Entra ID into Security Information and Event Management (SIEM) solution to enhance security monitoring and analytical capabilities.
 
 ## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:

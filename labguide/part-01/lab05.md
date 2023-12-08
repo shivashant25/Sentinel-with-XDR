@@ -1,7 +1,7 @@
 ## Lab 05 - Ingest Logs from Microsoft Defender for Endpoint
 
 ## Lab scenario
-Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and analyze security event logs from Microsoft Defender for Endpoint to enhance threat detection and response within the organization.
+Microsoft Defender for Endpoint is an enterprise endpoint security platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats. In this lab, Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and analyze security event logs from Microsoft Defender for Endpoint to enhance threat detection and response within the organization.
 
 ## Lab objectives (Duration: 120 minutes)
 

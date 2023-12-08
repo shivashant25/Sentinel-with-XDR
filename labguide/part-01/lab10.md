@@ -1,7 +1,8 @@
 ## Lab 10 - Ingest Logs from Microsoft Azure Activity
 
 ## Lab scenario
-Set up log ingestion from Microsoft Azure Activity into a SIEM (Security Information and Event Management) solution for security monitoring and analysis.
+
+The Azure Monitor activity log is a platform log in Azure that provides insight into subscription-level events. In this lab, you will configure the integration of Microsoft Azure Activity logs with a Security Information and Event Management (SIEM) system to enable thorough security monitoring and analysis.
 
 ## Lab objectives (Duration: 45 minutes)
 In this lab, you will complete the following tasks:
