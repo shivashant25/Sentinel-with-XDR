@@ -26,6 +26,42 @@ In this task, you will enable Entity behavior analytics in Microsoft Sentinel.
 
 1. Select **Analytics** under the *Configuration* area from the left blade.
 
+1. Click on **Create** and Select **Scheduled query rule**.
+
+1. This starts the "Analytics rule wizard". For the *General* tab type:
+
+    |General|Value|
+    |---|---|
+    |Name|Startup RegKey|
+    |Severity|High|
+    |Tactics & techniques|Persistence|
+   
+   ![Picture 1](../media/image_56.png)
+   
+1. Select **Next: Set rule logic >** button.
+
+1. Uder the **Rule query** paste the command.
+
+    ```KQL
+    SecurityEvent 
+    | where Activity startswith "4624" 
+    ```
+
+1. For *Query scheduling* set the following:
+
+    |Setting|Value|
+    |---|---|
+    |Run Query every|5 minutes|
+    |Lookup data from the last|1 Days|
+
+1. Leave the rest of the options with the defaults. Select **Next: Incident settings>** button.
+
+1. For the *Incident settings* tab, leave the default values and select **Next: Automated response >** button.
+
+1. Select the **Next: Review + create>** button.
+  
+1. On the *Review and create* tab, select the **Save** button to create the new Scheduled Analytics rule.
+
 1. Select the **Startup RegKey** rule that you created earlier.
 
 1. Select the **Export** from the toolbar. **Hint:** You might need to select the ellipsis icon **(...)** to see it.
