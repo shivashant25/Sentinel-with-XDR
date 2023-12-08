@@ -1,4 +1,4 @@
-## Part:1 Lab 11 - Create a Watchlist, Threat Indicator
+## Lab 11 - Create a Watchlist, Threat Indicator
 ## Lab scenario
 
 You're a Security Operations Analyst working at a company that is implementing Microsoft Sentinel. You're responsible for setting up the Microsoft Sentinel environment to meet the company requirements to minimize cost, meet compliance regulations, and provide the most manageable environment for your security team to perform their daily job responsibilities.
