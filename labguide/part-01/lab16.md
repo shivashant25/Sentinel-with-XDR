@@ -1,4 +1,4 @@
-## Part:1 Lab 16 - Create workbooks
+## Lab 16 - Create workbooks
 
 ## Lab scenario
 
