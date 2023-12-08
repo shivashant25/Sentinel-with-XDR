@@ -11,7 +11,7 @@ You're a Security Operations Analyst working at a company that is implementing M
 
 ## Architecture Diagram  
 
-   ![](../media/Lab-11%20arch.png)
+   ![](../media/Lab-11.2%20arch.png)
 
 ### Task 1: Create a Watchlist
 
