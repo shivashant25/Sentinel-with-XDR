@@ -138,7 +138,7 @@ overview of the workbook.
 
 1. Select the **Save** icon, change the *Title* to **My Workbook**.
 
-1. Select the **RG-Defender** resource group if needed and leave other values as default.
+1. Select your resource group if needed and leave other values as default.
 
 1.  Select **Apply** to commit the changes. 
 
