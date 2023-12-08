@@ -20,7 +20,7 @@ You are a Security Operations Analyst working at a company that is implementing 
 
 ## Architecture Diagram
 
-  ![Picture 1](../media/part1lab09.png)
+  ![](../media/Lab-14%20arch.jpg)
 
 
 ### Task 1: Connect the Windows security event connector.
