@@ -1,4 +1,4 @@
-## Part:1 Lab 13 - Using Sentinel Training Lab 
+## Lab 13 - Using Sentinel Training Lab 
 
 ## Lab scenario
 In this lab you will walk through the process of creating an  Microsoft Sentinel Training Lab Solution.
