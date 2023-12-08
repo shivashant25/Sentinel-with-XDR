@@ -217,8 +217,6 @@ In this task, you will build basic KQL statements.
     | where Account in (suspiciousAccounts)
     ```
 
-    >**Tip:** You can re-format the query easily by selecting the ellipsis (...) in the Query window and selecting **Format query**.
-
 1. The following statement demonstrates the use of the **let** statement to declare a *dynamic table*. In the Query Window enter the following statement and select **Run**: 
 
     ```KQL
@@ -307,7 +305,7 @@ In this task, you will build KQL statements to aggregate data. **Summarize** gro
         ```KQL
         SecurityEvent  
         | summarize arg_max(TimeGenerated, *) by Account
-        | where EventID == '4624'  
+        | where EventID == '4688'  
         ```
 
     1. **Query 2** will have the most recent login for Accounts that have logged in. The SecurityEvent table will be filtered to only include EventID = 4624. Then these results will be summarized for the most current login row by Account.
@@ -406,7 +404,7 @@ In this task, you will build multi-table KQL statements.
     | project LogOnCount, Account
     | join kind = inner( 
      SecurityEvent  
-    | where EventID == "4634" 
+    | where EventID == "4624" 
     | summarize LogOffCount=count() by EventID, Account
     | project LogOffCount, Account
     ) on Account
