@@ -1,4 +1,4 @@
-## Part:1 Lab 02 - Onboard Server Defender for Cloud  
+## Lab 02 - Onboard Server Defender for Cloud  
 
 ## Lab scenario
 Ingest Logs from Microsoft Defender for Endpoint is to collect, process, and analyze security event logs from Microsoft Defender for Endpoint to enhance threat detection and response within the organization.
