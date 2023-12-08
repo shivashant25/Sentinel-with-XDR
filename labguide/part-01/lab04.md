@@ -1,4 +1,4 @@
-## Part:1 Lab 04 - Ingest Logs from Microsoft Defender for Cloud
+## Lab 04 - Ingest Logs from Microsoft Defender for Cloud
 
 ## Lab scenario
 To set up Log Analytics workspace in Azure and configure Microsoft Defender for Cloud to ingest security logs into the workspace for monitoring and analysis.
